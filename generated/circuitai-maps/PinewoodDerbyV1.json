@@ -1,0 +1,168 @@
+{
+  "engine_name": "Pinewood_Derby_V1",
+  "match_name": "Pinewood_Derby_V1",
+  "archive": "pinewood_derby_v1",
+  "world_width": 6144.0,
+  "world_height": 3072.0,
+  "min_height": -125.0,
+  "max_height": 875.0,
+  "header_min_height": -125.0,
+  "header_max_height": 875.0,
+  "elevation_min": -121.8143,
+  "elevation_max": 412.56033,
+  "elevation_mean": 128.06787,
+  "land_fraction": 0.87764484,
+  "mean_land_slope": 0.063136615,
+  "mobility": [
+    {
+      "class": "bot",
+      "coverage": 0.8364529,
+      "mean_speed": 1.0
+    },
+    {
+      "class": "vehicle",
+      "coverage": 0.7712538,
+      "mean_speed": 1.0
+    },
+    {
+      "class": "hover",
+      "coverage": 0.8721788,
+      "mean_speed": 1.0
+    },
+    {
+      "class": "ship",
+      "coverage": 0.11857096,
+      "mean_speed": 1.0
+    }
+  ],
+  "largest_ground_component": 0.83378094,
+  "ground_component_count": 100,
+  "metal_distribution": "spots",
+  "metal_spots": [
+    {
+      "x": 4424.0,
+      "z": 904.0,
+      "income": 8.198823
+    },
+    {
+      "x": 552.0,
+      "z": 920.0,
+      "income": 8.117647
+    },
+    {
+      "x": 5432.0,
+      "z": 2648.0,
+      "income": 8.096
+    },
+    {
+      "x": 2344.0,
+      "z": 1464.0,
+      "income": 8.085176
+    },
+    {
+      "x": 1640.0,
+      "z": 2104.0,
+      "income": 8.066236
+    },
+    {
+      "x": 1000.0,
+      "z": 2328.0,
+      "income": 7.928235
+    },
+    {
+      "x": 3720.0,
+      "z": 1304.0,
+      "income": 7.909294
+    },
+    {
+      "x": 5736.0,
+      "z": 2424.0,
+      "income": 7.8281174
+    },
+    {
+      "x": 5880.0,
+      "z": 232.0,
+      "income": 7.7415295
+    },
+    {
+      "x": 408.0,
+      "z": 632.0,
+      "income": 7.722588
+    },
+    {
+      "x": 5848.0,
+      "z": 552.0,
+      "income": 7.709059
+    },
+    {
+      "x": 200.0,
+      "z": 2168.0,
+      "income": 7.652235
+    },
+    {
+      "x": 4120.0,
+      "z": 168.0,
+      "income": 7.606235
+    },
+    {
+      "x": 1848.0,
+      "z": 2776.0,
+      "income": 7.5791764
+    },
+    {
+      "x": 4952.0,
+      "z": 520.0,
+      "income": 7.538588
+    },
+    {
+      "x": 5608.0,
+      "z": 2136.0,
+      "income": 7.5331764
+    },
+    {
+      "x": 696.0,
+      "z": 392.0,
+      "income": 7.473647
+    },
+    {
+      "x": 200.0,
+      "z": 2552.0,
+      "income": 7.4411764
+    }
+  ],
+  "metal_coverage": 0.0063476562,
+  "total_metal_income": 140.22694,
+  "starts": [
+    {
+      "team": 0,
+      "x": 600.0,
+      "z": 700.0,
+      "water_fraction": 0.0,
+      "mean_slope": 0.06440733,
+      "nearby_spots": 3,
+      "nearby_income": 23.31388,
+      "ground_reach": 0.83378094,
+      "land_locked": false,
+      "suggested_role": "FRONT"
+    },
+    {
+      "team": 1,
+      "x": 5500.0,
+      "z": 2500.0,
+      "water_fraction": 0.0,
+      "mean_slope": 0.06465224,
+      "nearby_spots": 3,
+      "nearby_income": 23.457294,
+      "ground_reach": 0.83378094,
+      "land_locked": false,
+      "suggested_role": "FRONT"
+    }
+  ],
+  "water_damage": 0.0,
+  "tidal_strength": 20.0,
+  "gravity": 100.0,
+  "max_metal": 0.69,
+  "extractor_radius": 90.0,
+  "option_sensitive": true,
+  "notes": []
+}

@@ -1,0 +1,161 @@
+{
+  "engine_name": "Cloud9_V2",
+  "match_name": "Cloud9_V2",
+  "archive": "cloud9_v2",
+  "world_width": 9216.0,
+  "world_height": 9216.0,
+  "min_height": -220.0,
+  "max_height": 780.0,
+  "header_min_height": -220.0,
+  "header_max_height": 780.0,
+  "elevation_min": -219.32013,
+  "elevation_max": 779.9695,
+  "elevation_mean": 141.25769,
+  "land_fraction": 0.5580512,
+  "mean_land_slope": 0.25200298,
+  "mobility": [
+    {
+      "class": "bot",
+      "coverage": 0.3671423,
+      "mean_speed": 1.0
+    },
+    {
+      "class": "vehicle",
+      "coverage": 0.31144506,
+      "mean_speed": 1.0
+    },
+    {
+      "class": "hover",
+      "coverage": 0.31255123,
+      "mean_speed": 1.0
+    },
+    {
+      "class": "ship",
+      "coverage": 0.006817853,
+      "mean_speed": 1.0
+    }
+  ],
+  "largest_ground_component": 0.33048803,
+  "ground_component_count": 1769,
+  "metal_distribution": "field",
+  "metal_spots": [],
+  "metal_coverage": 0.40808558,
+  "total_metal_income": -0.0,
+  "starts": [
+    {
+      "team": 0,
+      "x": 1600.0,
+      "z": 1600.0,
+      "water_fraction": 0.39651614,
+      "mean_slope": 0.31033558,
+      "nearby_spots": 0,
+      "nearby_income": -0.0,
+      "ground_reach": 0.33048803,
+      "land_locked": false,
+      "suggested_role": "TACTICAL"
+    },
+    {
+      "team": 1,
+      "x": 7600.0,
+      "z": 7600.0,
+      "water_fraction": 0.3559193,
+      "mean_slope": 0.31105015,
+      "nearby_spots": 0,
+      "nearby_income": -0.0,
+      "ground_reach": 0.33048803,
+      "land_locked": false,
+      "suggested_role": "TACTICAL"
+    },
+    {
+      "team": 2,
+      "x": 1600.0,
+      "z": 7600.0,
+      "water_fraction": 0.36167747,
+      "mean_slope": 0.30179676,
+      "nearby_spots": 0,
+      "nearby_income": -0.0,
+      "ground_reach": 0.33048803,
+      "land_locked": false,
+      "suggested_role": "TACTICAL"
+    },
+    {
+      "team": 3,
+      "x": 7600.0,
+      "z": 1600.0,
+      "water_fraction": 0.31937855,
+      "mean_slope": 0.30452657,
+      "nearby_spots": 0,
+      "nearby_income": -0.0,
+      "ground_reach": 0.33048803,
+      "land_locked": false,
+      "suggested_role": "TACTICAL"
+    },
+    {
+      "team": 4,
+      "x": 1600.0,
+      "z": 4100.0,
+      "water_fraction": 0.248651,
+      "mean_slope": 0.19668849,
+      "nearby_spots": 0,
+      "nearby_income": -0.0,
+      "ground_reach": 0.33048803,
+      "land_locked": false,
+      "suggested_role": "FRONT"
+    },
+    {
+      "team": 5,
+      "x": 7600.0,
+      "z": 4100.0,
+      "water_fraction": 0.25220004,
+      "mean_slope": 0.19555832,
+      "nearby_spots": 0,
+      "nearby_income": -0.0,
+      "ground_reach": 0.33048803,
+      "land_locked": false,
+      "suggested_role": "TACTICAL"
+    },
+    {
+      "team": 6,
+      "x": 4100.0,
+      "z": 1600.0,
+      "water_fraction": 0.26259372,
+      "mean_slope": 0.2091821,
+      "nearby_spots": 0,
+      "nearby_income": -0.0,
+      "ground_reach": 0.33048803,
+      "land_locked": false,
+      "suggested_role": "TACTICAL"
+    },
+    {
+      "team": 7,
+      "x": 4100.0,
+      "z": 7600.0,
+      "water_fraction": 0.3205012,
+      "mean_slope": 0.21858285,
+      "nearby_spots": 0,
+      "nearby_income": -0.0,
+      "ground_reach": 0.33048803,
+      "land_locked": false,
+      "suggested_role": "TACTICAL"
+    },
+    {
+      "team": 8,
+      "x": 4100.0,
+      "z": 4100.0,
+      "water_fraction": 0.15626697,
+      "mean_slope": 0.17189428,
+      "nearby_spots": 0,
+      "nearby_income": -0.0,
+      "ground_reach": 0.33048803,
+      "land_locked": false,
+      "suggested_role": "FRONT"
+    }
+  ],
+  "water_damage": 2000.0,
+  "tidal_strength": 1.0,
+  "gravity": 100.0,
+  "max_metal": 7.5,
+  "extractor_radius": 24.0,
+  "option_sensitive": false,
+  "notes": []
+}

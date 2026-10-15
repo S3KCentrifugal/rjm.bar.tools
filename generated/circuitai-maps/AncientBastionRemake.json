@@ -1,0 +1,206 @@
+{
+  "engine_name": "Ancient Bastion Remake 0.5",
+  "match_name": "Ancient Bastion Remake",
+  "archive": "ancient_bastion_remake_0.5",
+  "world_width": 16384.0,
+  "world_height": 8192.0,
+  "min_height": 100.0,
+  "max_height": 710.0,
+  "header_min_height": -50.0,
+  "header_max_height": 100.0,
+  "elevation_min": 105.917725,
+  "elevation_max": 699.07355,
+  "elevation_mean": 288.07812,
+  "land_fraction": 1.0,
+  "mean_land_slope": 0.033440124,
+  "mobility": [
+    {
+      "class": "bot",
+      "coverage": 0.9815483,
+      "mean_speed": 1.0172912
+    },
+    {
+      "class": "vehicle",
+      "coverage": 0.9367943,
+      "mean_speed": 1.0172808
+    },
+    {
+      "class": "hover",
+      "coverage": 0.9367943,
+      "mean_speed": 1.0172808
+    },
+    {
+      "class": "ship",
+      "coverage": 0.0,
+      "mean_speed": 0.0
+    }
+  ],
+  "largest_ground_component": 0.98130226,
+  "ground_component_count": 36,
+  "metal_distribution": "spots",
+  "metal_spots": [
+    {
+      "x": 9560.0,
+      "z": 3272.0,
+      "income": 38.776474
+    },
+    {
+      "x": 10648.0,
+      "z": 4296.0,
+      "income": 25.850983
+    },
+    {
+      "x": 2120.0,
+      "z": 808.0,
+      "income": 19.388237
+    },
+    {
+      "x": 888.0,
+      "z": 1336.0,
+      "income": 19.388237
+    },
+    {
+      "x": 5656.0,
+      "z": 2904.0,
+      "income": 19.388237
+    },
+    {
+      "x": 296.0,
+      "z": 2984.0,
+      "income": 19.388237
+    },
+    {
+      "x": 632.0,
+      "z": 4056.0,
+      "income": 19.388237
+    },
+    {
+      "x": 3096.0,
+      "z": 4056.0,
+      "income": 19.388237
+    },
+    {
+      "x": 296.0,
+      "z": 5128.0,
+      "income": 19.388237
+    },
+    {
+      "x": 5688.0,
+      "z": 5176.0,
+      "income": 19.388237
+    },
+    {
+      "x": 10168.0,
+      "z": 6008.0,
+      "income": 19.388237
+    },
+    {
+      "x": 888.0,
+      "z": 6776.0,
+      "income": 19.388237
+    },
+    {
+      "x": 2120.0,
+      "z": 7240.0,
+      "income": 19.388237
+    },
+    {
+      "x": 10776.0,
+      "z": 2648.0,
+      "income": 14.541178
+    },
+    {
+      "x": 11736.0,
+      "z": 3144.0,
+      "income": 14.541178
+    },
+    {
+      "x": 11688.0,
+      "z": 4072.0,
+      "income": 14.541178
+    }
+  ],
+  "metal_coverage": 0.0009899139,
+  "total_metal_income": 321.5216,
+  "starts": [
+    {
+      "team": 0,
+      "x": 574.0,
+      "z": 4155.0,
+      "water_fraction": 0.0,
+      "mean_slope": 0.04319061,
+      "nearby_spots": 3,
+      "nearby_income": 58.16471,
+      "ground_reach": 0.98130226,
+      "land_locked": false,
+      "suggested_role": "FRONT"
+    },
+    {
+      "team": 1,
+      "x": 431.0,
+      "z": 5171.0,
+      "water_fraction": 0.0,
+      "mean_slope": 0.035855975,
+      "nearby_spots": 2,
+      "nearby_income": 38.776474,
+      "ground_reach": 0.98130226,
+      "land_locked": false,
+      "suggested_role": "FRONT"
+    },
+    {
+      "team": 2,
+      "x": 431.0,
+      "z": 3042.0,
+      "water_fraction": 0.0,
+      "mean_slope": 0.03468428,
+      "nearby_spots": 2,
+      "nearby_income": 38.776474,
+      "ground_reach": 0.98130226,
+      "land_locked": false,
+      "suggested_role": "FRONT"
+    },
+    {
+      "team": 3,
+      "x": 2803.0,
+      "z": 2643.0,
+      "water_fraction": 0.0,
+      "mean_slope": 0.06827749,
+      "nearby_spots": 1,
+      "nearby_income": 19.388237,
+      "ground_reach": 0.98130226,
+      "land_locked": false,
+      "suggested_role": "FRONT"
+    },
+    {
+      "team": 4,
+      "x": 2803.0,
+      "z": 5588.0,
+      "water_fraction": 0.0,
+      "mean_slope": 0.06856099,
+      "nearby_spots": 0,
+      "nearby_income": -0.0,
+      "ground_reach": 0.98130226,
+      "land_locked": false,
+      "suggested_role": "FRONT"
+    },
+    {
+      "team": 5,
+      "x": 4452.0,
+      "z": 4107.0,
+      "water_fraction": 0.0,
+      "mean_slope": 0.067579806,
+      "nearby_spots": 1,
+      "nearby_income": 19.388237,
+      "ground_reach": 0.98130226,
+      "land_locked": false,
+      "suggested_role": "FRONT"
+    }
+  ],
+  "water_damage": 0.0,
+  "tidal_strength": 18.0,
+  "gravity": 120.0,
+  "max_metal": 2.0,
+  "extractor_radius": 90.0,
+  "option_sensitive": false,
+  "notes": []
+}

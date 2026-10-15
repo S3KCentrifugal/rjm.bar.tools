@@ -1,0 +1,360 @@
+{
+  "engine_name": "Evad River Confluence_V2",
+  "match_name": "Evad River Confluence_V2",
+  "archive": "evad_river_confluence_v2",
+  "world_width": 5120.0,
+  "world_height": 5120.0,
+  "min_height": -243.0,
+  "max_height": 1082.0,
+  "header_min_height": -50.0,
+  "header_max_height": 100.0,
+  "elevation_min": -67.102066,
+  "elevation_max": 177.10542,
+  "elevation_mean": -3.0679214,
+  "land_fraction": 0.72270507,
+  "mean_land_slope": 0.031139333,
+  "mobility": [
+    {
+      "class": "bot",
+      "coverage": 0.74385744,
+      "mean_speed": 1.0
+    },
+    {
+      "class": "vehicle",
+      "coverage": 0.6965332,
+      "mean_speed": 1.0
+    },
+    {
+      "class": "hover",
+      "coverage": 0.90833986,
+      "mean_speed": 1.0
+    },
+    {
+      "class": "ship",
+      "coverage": 0.25299805,
+      "mean_speed": 1.0
+    }
+  ],
+  "largest_ground_component": 0.2545703,
+  "ground_component_count": 15,
+  "metal_distribution": "spots",
+  "metal_spots": [
+    {
+      "x": 1528.0,
+      "z": 1992.0,
+      "income": 8.828236
+    },
+    {
+      "x": 3000.0,
+      "z": 56.0,
+      "income": 8.795295
+    },
+    {
+      "x": 4568.0,
+      "z": 2408.0,
+      "income": 8.790588
+    },
+    {
+      "x": 3576.0,
+      "z": 4120.0,
+      "income": 8.781177
+    },
+    {
+      "x": 2968.0,
+      "z": 3896.0,
+      "income": 8.776471
+    },
+    {
+      "x": 2392.0,
+      "z": 4440.0,
+      "income": 8.771765
+    },
+    {
+      "x": 2984.0,
+      "z": 680.0,
+      "income": 8.767059
+    },
+    {
+      "x": 248.0,
+      "z": 2632.0,
+      "income": 8.767059
+    },
+    {
+      "x": 2328.0,
+      "z": 4792.0,
+      "income": 8.748236
+    },
+    {
+      "x": 4472.0,
+      "z": 728.0,
+      "income": 8.74353
+    },
+    {
+      "x": 4936.0,
+      "z": 3032.0,
+      "income": 8.738824
+    },
+    {
+      "x": 3432.0,
+      "z": 3320.0,
+      "income": 8.738824
+    },
+    {
+      "x": 3672.0,
+      "z": 3832.0,
+      "income": 8.738824
+    },
+    {
+      "x": 4664.0,
+      "z": 4856.0,
+      "income": 8.738824
+    },
+    {
+      "x": 4072.0,
+      "z": 920.0,
+      "income": 8.734118
+    },
+    {
+      "x": 456.0,
+      "z": 3000.0,
+      "income": 8.724707
+    },
+    {
+      "x": 2888.0,
+      "z": 2984.0,
+      "income": 8.72
+    },
+    {
+      "x": 888.0,
+      "z": 2936.0,
+      "income": 8.715295
+    },
+    {
+      "x": 424.0,
+      "z": 3656.0,
+      "income": 8.710588
+    },
+    {
+      "x": 2952.0,
+      "z": 4776.0,
+      "income": 8.705883
+    },
+    {
+      "x": 3512.0,
+      "z": 1448.0,
+      "income": 8.701177
+    },
+    {
+      "x": 1704.0,
+      "z": 1288.0,
+      "income": 8.696471
+    },
+    {
+      "x": 184.0,
+      "z": 1320.0,
+      "income": 8.696471
+    },
+    {
+      "x": 2712.0,
+      "z": 2792.0,
+      "income": 8.687059
+    },
+    {
+      "x": 2696.0,
+      "z": 4600.0,
+      "income": 8.687059
+    },
+    {
+      "x": 4728.0,
+      "z": 4328.0,
+      "income": 8.682353
+    },
+    {
+      "x": 3848.0,
+      "z": 1896.0,
+      "income": 8.672942
+    },
+    {
+      "x": 1720.0,
+      "z": 664.0,
+      "income": 8.668236
+    },
+    {
+      "x": 3320.0,
+      "z": 4200.0,
+      "income": 8.668236
+    },
+    {
+      "x": 1480.0,
+      "z": 2280.0,
+      "income": 8.66353
+    },
+    {
+      "x": 152.0,
+      "z": 4008.0,
+      "income": 8.66353
+    },
+    {
+      "x": 4728.0,
+      "z": 824.0,
+      "income": 8.654119
+    },
+    {
+      "x": 3912.0,
+      "z": 4376.0,
+      "income": 8.654119
+    },
+    {
+      "x": 4520.0,
+      "z": 1512.0,
+      "income": 8.64
+    },
+    {
+      "x": 1208.0,
+      "z": 2600.0,
+      "income": 8.625883
+    },
+    {
+      "x": 4840.0,
+      "z": 1992.0,
+      "income": 8.611765
+    },
+    {
+      "x": 4776.0,
+      "z": 2712.0,
+      "income": 8.611765
+    },
+    {
+      "x": 3000.0,
+      "z": 1336.0,
+      "income": 8.602353
+    },
+    {
+      "x": 1048.0,
+      "z": 4952.0,
+      "income": 8.597648
+    },
+    {
+      "x": 792.0,
+      "z": 1688.0,
+      "income": 8.588236
+    },
+    {
+      "x": 3768.0,
+      "z": 328.0,
+      "income": 8.583529
+    },
+    {
+      "x": 2840.0,
+      "z": 392.0,
+      "income": 8.583529
+    },
+    {
+      "x": 4536.0,
+      "z": 1000.0,
+      "income": 8.578824
+    },
+    {
+      "x": 1592.0,
+      "z": 72.0,
+      "income": 8.574119
+    },
+    {
+      "x": 152.0,
+      "z": 936.0,
+      "income": 8.574119
+    },
+    {
+      "x": 920.0,
+      "z": 152.0,
+      "income": 8.56
+    },
+    {
+      "x": 3928.0,
+      "z": 1416.0,
+      "income": 8.56
+    },
+    {
+      "x": 1048.0,
+      "z": 1064.0,
+      "income": 8.522353
+    },
+    {
+      "x": 1112.0,
+      "z": 1688.0,
+      "income": 8.475295
+    },
+    {
+      "x": 2136.0,
+      "z": 4024.0,
+      "income": 8.475295
+    },
+    {
+      "x": 1816.0,
+      "z": 4360.0,
+      "income": 8.461177
+    },
+    {
+      "x": 3112.0,
+      "z": 1032.0,
+      "income": 8.428236
+    },
+    {
+      "x": 2408.0,
+      "z": 3544.0,
+      "income": 8.404706
+    },
+    {
+      "x": 472.0,
+      "z": 1240.0,
+      "income": 8.385882
+    }
+  ],
+  "metal_coverage": 0.015458984,
+  "total_metal_income": 467.2753,
+  "starts": [
+    {
+      "team": 0,
+      "x": 237.0,
+      "z": 1170.0,
+      "water_fraction": 0.0,
+      "mean_slope": 0.019809563,
+      "nearby_spots": 9,
+      "nearby_income": 77.265884,
+      "ground_reach": 0.2545703,
+      "land_locked": true,
+      "suggested_role": "TACTICAL"
+    },
+    {
+      "team": 1,
+      "x": 4574.0,
+      "z": 809.0,
+      "water_fraction": 0.0009203019,
+      "mean_slope": 0.03838952,
+      "nearby_spots": 11,
+      "nearby_income": 94.90824,
+      "ground_reach": 0.22243164,
+      "land_locked": true,
+      "suggested_role": "TACTICAL"
+    },
+    {
+      "team": 2,
+      "x": 3013.0,
+      "z": 4820.0,
+      "water_fraction": 0.049617436,
+      "mean_slope": 0.03217023,
+      "nearby_spots": 12,
+      "nearby_income": 103.87295,
+      "ground_reach": 0.24749023,
+      "land_locked": true,
+      "suggested_role": "TACTICAL"
+    }
+  ],
+  "water_damage": 0.0,
+  "tidal_strength": 16.0,
+  "gravity": 100.0,
+  "max_metal": 1.2,
+  "extractor_radius": 90.0,
+  "option_sensitive": true,
+  "notes": []
+}

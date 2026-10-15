@@ -1,0 +1,1486 @@
+{
+  "engine_name": "Serene Caldera v1.3",
+  "match_name": "Serene Caldera v1.3",
+  "archive": "serene_caldera_v1.3",
+  "world_width": 15360.0,
+  "world_height": 15360.0,
+  "min_height": -125.0,
+  "max_height": 275.0,
+  "header_min_height": -50.0,
+  "header_max_height": 100.0,
+  "elevation_min": -94.78556,
+  "elevation_max": 192.4737,
+  "elevation_mean": -53.08556,
+  "land_fraction": 0.10926649,
+  "mean_land_slope": 0.026968949,
+  "mobility": [
+    {
+      "class": "bot",
+      "coverage": 0.1833507,
+      "mean_speed": 1.0
+    },
+    {
+      "class": "vehicle",
+      "coverage": 0.17529406,
+      "mean_speed": 1.0
+    },
+    {
+      "class": "hover",
+      "coverage": 0.99001735,
+      "mean_speed": 1.0
+    },
+    {
+      "class": "ship",
+      "coverage": 0.86488175,
+      "mean_speed": 1.0
+    }
+  ],
+  "largest_ground_component": 0.031699218,
+  "ground_component_count": 77,
+  "metal_distribution": "spots",
+  "metal_spots": [
+    {
+      "x": 8584.0,
+      "z": 12904.0,
+      "income": 9.606275
+    },
+    {
+      "x": 6920.0,
+      "z": 1144.0,
+      "income": 9.587451
+    },
+    {
+      "x": 11560.0,
+      "z": 3240.0,
+      "income": 9.587451
+    },
+    {
+      "x": 6808.0,
+      "z": 4280.0,
+      "income": 9.587451
+    },
+    {
+      "x": 5304.0,
+      "z": 4520.0,
+      "income": 9.587451
+    },
+    {
+      "x": 9784.0,
+      "z": 4520.0,
+      "income": 9.587451
+    },
+    {
+      "x": 12328.0,
+      "z": 5800.0,
+      "income": 9.587451
+    },
+    {
+      "x": 1160.0,
+      "z": 7864.0,
+      "income": 9.587451
+    },
+    {
+      "x": 12344.0,
+      "z": 8360.0,
+      "income": 9.587451
+    },
+    {
+      "x": 13544.0,
+      "z": 9400.0,
+      "income": 9.587451
+    },
+    {
+      "x": 9944.0,
+      "z": 10440.0,
+      "income": 9.587451
+    },
+    {
+      "x": 11224.0,
+      "z": 12200.0,
+      "income": 9.587451
+    },
+    {
+      "x": 6504.0,
+      "z": 13000.0,
+      "income": 9.587451
+    },
+    {
+      "x": 8984.0,
+      "z": 14264.0,
+      "income": 9.587451
+    },
+    {
+      "x": 9320.0,
+      "z": 11464.0,
+      "income": 9.581177
+    },
+    {
+      "x": 5704.0,
+      "z": 12200.0,
+      "income": 9.581177
+    },
+    {
+      "x": 904.0,
+      "z": 7656.0,
+      "income": 9.574902
+    },
+    {
+      "x": 6856.0,
+      "z": 8024.0,
+      "income": 9.574902
+    },
+    {
+      "x": 9848.0,
+      "z": 12520.0,
+      "income": 9.574902
+    },
+    {
+      "x": 4584.0,
+      "z": 5704.0,
+      "income": 9.568627
+    },
+    {
+      "x": 14504.0,
+      "z": 7144.0,
+      "income": 9.568627
+    },
+    {
+      "x": 7384.0,
+      "z": 8584.0,
+      "income": 9.568627
+    },
+    {
+      "x": 6888.0,
+      "z": 12056.0,
+      "income": 9.568627
+    },
+    {
+      "x": 9160.0,
+      "z": 2200.0,
+      "income": 9.562353
+    },
+    {
+      "x": 2984.0,
+      "z": 2824.0,
+      "income": 9.562353
+    },
+    {
+      "x": 10120.0,
+      "z": 3384.0,
+      "income": 9.562353
+    },
+    {
+      "x": 12840.0,
+      "z": 4120.0,
+      "income": 9.562353
+    },
+    {
+      "x": 7320.0,
+      "z": 6568.0,
+      "income": 9.562353
+    },
+    {
+      "x": 13048.0,
+      "z": 6680.0,
+      "income": 9.562353
+    },
+    {
+      "x": 4584.0,
+      "z": 6728.0,
+      "income": 9.562353
+    },
+    {
+      "x": 12040.0,
+      "z": 8648.0,
+      "income": 9.562353
+    },
+    {
+      "x": 3528.0,
+      "z": 9960.0,
+      "income": 9.562353
+    },
+    {
+      "x": 4280.0,
+      "z": 11000.0,
+      "income": 9.562353
+    },
+    {
+      "x": 3768.0,
+      "z": 3896.0,
+      "income": 9.556078
+    },
+    {
+      "x": 3160.0,
+      "z": 5384.0,
+      "income": 9.556078
+    },
+    {
+      "x": 12040.0,
+      "z": 9864.0,
+      "income": 9.556078
+    },
+    {
+      "x": 6344.0,
+      "z": 3736.0,
+      "income": 9.549804
+    },
+    {
+      "x": 14168.0,
+      "z": 4344.0,
+      "income": 9.549804
+    },
+    {
+      "x": 1272.0,
+      "z": 5176.0,
+      "income": 9.549804
+    },
+    {
+      "x": 10520.0,
+      "z": 6856.0,
+      "income": 9.549804
+    },
+    {
+      "x": 2328.0,
+      "z": 8504.0,
+      "income": 9.549804
+    },
+    {
+      "x": 8184.0,
+      "z": 10696.0,
+      "income": 9.549804
+    },
+    {
+      "x": 5208.0,
+      "z": 12104.0,
+      "income": 9.549804
+    },
+    {
+      "x": 2744.0,
+      "z": 12296.0,
+      "income": 9.549804
+    },
+    {
+      "x": 12536.0,
+      "z": 12344.0,
+      "income": 9.549804
+    },
+    {
+      "x": 11128.0,
+      "z": 13944.0,
+      "income": 9.549804
+    },
+    {
+      "x": 10632.0,
+      "z": 1480.0,
+      "income": 9.5435295
+    },
+    {
+      "x": 10616.0,
+      "z": 9480.0,
+      "income": 9.5435295
+    },
+    {
+      "x": 4152.0,
+      "z": 13864.0,
+      "income": 9.5435295
+    },
+    {
+      "x": 5544.0,
+      "z": 2568.0,
+      "income": 9.537254
+    },
+    {
+      "x": 8696.0,
+      "z": 3080.0,
+      "income": 9.537254
+    },
+    {
+      "x": 11400.0,
+      "z": 4216.0,
+      "income": 9.537254
+    },
+    {
+      "x": 14168.0,
+      "z": 4648.0,
+      "income": 9.537254
+    },
+    {
+      "x": 10088.0,
+      "z": 5656.0,
+      "income": 9.537254
+    },
+    {
+      "x": 1352.0,
+      "z": 5736.0,
+      "income": 9.537254
+    },
+    {
+      "x": 14552.0,
+      "z": 6840.0,
+      "income": 9.537254
+    },
+    {
+      "x": 13624.0,
+      "z": 8408.0,
+      "income": 9.537254
+    },
+    {
+      "x": 10712.0,
+      "z": 8536.0,
+      "income": 9.537254
+    },
+    {
+      "x": 2360.0,
+      "z": 9816.0,
+      "income": 9.537254
+    },
+    {
+      "x": 1384.0,
+      "z": 10008.0,
+      "income": 9.537254
+    },
+    {
+      "x": 14056.0,
+      "z": 10040.0,
+      "income": 9.537254
+    },
+    {
+      "x": 1416.0,
+      "z": 10920.0,
+      "income": 9.537254
+    },
+    {
+      "x": 5352.0,
+      "z": 11736.0,
+      "income": 9.537254
+    },
+    {
+      "x": 6600.0,
+      "z": 2152.0,
+      "income": 9.53098
+    },
+    {
+      "x": 13016.0,
+      "z": 2696.0,
+      "income": 9.53098
+    },
+    {
+      "x": 12792.0,
+      "z": 2824.0,
+      "income": 9.53098
+    },
+    {
+      "x": 3480.0,
+      "z": 4232.0,
+      "income": 9.53098
+    },
+    {
+      "x": 2024.0,
+      "z": 6792.0,
+      "income": 9.53098
+    },
+    {
+      "x": 5064.0,
+      "z": 9272.0,
+      "income": 9.53098
+    },
+    {
+      "x": 10904.0,
+      "z": 14072.0,
+      "income": 9.53098
+    },
+    {
+      "x": 6664.0,
+      "z": 872.0,
+      "income": 9.524706
+    },
+    {
+      "x": 8984.0,
+      "z": 872.0,
+      "income": 9.524706
+    },
+    {
+      "x": 8488.0,
+      "z": 1048.0,
+      "income": 9.524706
+    },
+    {
+      "x": 10936.0,
+      "z": 1496.0,
+      "income": 9.524706
+    },
+    {
+      "x": 3096.0,
+      "z": 4504.0,
+      "income": 9.524706
+    },
+    {
+      "x": 12120.0,
+      "z": 4968.0,
+      "income": 9.524706
+    },
+    {
+      "x": 3240.0,
+      "z": 6936.0,
+      "income": 9.524706
+    },
+    {
+      "x": 14280.0,
+      "z": 6968.0,
+      "income": 9.524706
+    },
+    {
+      "x": 6760.0,
+      "z": 7128.0,
+      "income": 9.524706
+    },
+    {
+      "x": 12520.0,
+      "z": 7896.0,
+      "income": 9.524706
+    },
+    {
+      "x": 3352.0,
+      "z": 9224.0,
+      "income": 9.524706
+    },
+    {
+      "x": 14120.0,
+      "z": 9512.0,
+      "income": 9.524706
+    },
+    {
+      "x": 2808.0,
+      "z": 11048.0,
+      "income": 9.524706
+    },
+    {
+      "x": 2664.0,
+      "z": 12648.0,
+      "income": 9.524706
+    },
+    {
+      "x": 6360.0,
+      "z": 13928.0,
+      "income": 9.524706
+    },
+    {
+      "x": 4600.0,
+      "z": 1912.0,
+      "income": 9.5121565
+    },
+    {
+      "x": 10360.0,
+      "z": 3112.0,
+      "income": 9.5121565
+    },
+    {
+      "x": 2696.0,
+      "z": 3144.0,
+      "income": 9.5121565
+    },
+    {
+      "x": 4840.0,
+      "z": 3512.0,
+      "income": 9.5121565
+    },
+    {
+      "x": 8424.0,
+      "z": 4632.0,
+      "income": 9.5121565
+    },
+    {
+      "x": 13864.0,
+      "z": 4872.0,
+      "income": 9.5121565
+    },
+    {
+      "x": 8424.0,
+      "z": 7112.0,
+      "income": 9.5121565
+    },
+    {
+      "x": 8488.0,
+      "z": 7928.0,
+      "income": 9.5121565
+    },
+    {
+      "x": 2280.0,
+      "z": 12328.0,
+      "income": 9.5121565
+    },
+    {
+      "x": 7608.0,
+      "z": 13048.0,
+      "income": 9.5121565
+    },
+    {
+      "x": 6968.0,
+      "z": 14328.0,
+      "income": 9.5121565
+    },
+    {
+      "x": 6232.0,
+      "z": 984.0,
+      "income": 9.505882
+    },
+    {
+      "x": 8888.0,
+      "z": 1176.0,
+      "income": 9.505882
+    },
+    {
+      "x": 1720.0,
+      "z": 4904.0,
+      "income": 9.505882
+    },
+    {
+      "x": 3496.0,
+      "z": 6552.0,
+      "income": 9.505882
+    },
+    {
+      "x": 4536.0,
+      "z": 8216.0,
+      "income": 9.505882
+    },
+    {
+      "x": 5896.0,
+      "z": 10712.0,
+      "income": 9.505882
+    },
+    {
+      "x": 11608.0,
+      "z": 11112.0,
+      "income": 9.505882
+    },
+    {
+      "x": 10536.0,
+      "z": 13512.0,
+      "income": 9.505882
+    },
+    {
+      "x": 2808.0,
+      "z": 2536.0,
+      "income": 9.493333
+    },
+    {
+      "x": 12856.0,
+      "z": 12008.0,
+      "income": 9.493333
+    },
+    {
+      "x": 11256.0,
+      "z": 1672.0,
+      "income": 9.487059
+    },
+    {
+      "x": 10056.0,
+      "z": 2888.0,
+      "income": 9.487059
+    },
+    {
+      "x": 3112.0,
+      "z": 7288.0,
+      "income": 9.487059
+    },
+    {
+      "x": 712.0,
+      "z": 8296.0,
+      "income": 9.487059
+    },
+    {
+      "x": 12616.0,
+      "z": 12712.0,
+      "income": 9.487059
+    },
+    {
+      "x": 4088.0,
+      "z": 13512.0,
+      "income": 9.487059
+    },
+    {
+      "x": 4472.0,
+      "z": 1448.0,
+      "income": 9.480784
+    },
+    {
+      "x": 8056.0,
+      "z": 2168.0,
+      "income": 9.480784
+    },
+    {
+      "x": 12632.0,
+      "z": 2456.0,
+      "income": 9.480784
+    },
+    {
+      "x": 7928.0,
+      "z": 6632.0,
+      "income": 9.480784
+    },
+    {
+      "x": 11512.0,
+      "z": 7256.0,
+      "income": 9.480784
+    },
+    {
+      "x": 1288.0,
+      "z": 10472.0,
+      "income": 9.480784
+    },
+    {
+      "x": 11816.0,
+      "z": 10808.0,
+      "income": 9.480784
+    },
+    {
+      "x": 4136.0,
+      "z": 11992.0,
+      "income": 9.480784
+    },
+    {
+      "x": 3832.0,
+      "z": 14088.0,
+      "income": 9.480784
+    },
+    {
+      "x": 8696.0,
+      "z": 14088.0,
+      "income": 9.480784
+    },
+    {
+      "x": 4792.0,
+      "z": 1112.0,
+      "income": 9.474509
+    },
+    {
+      "x": 11992.0,
+      "z": 5288.0,
+      "income": 9.474509
+    },
+    {
+      "x": 8056.0,
+      "z": 8728.0,
+      "income": 9.474509
+    },
+    {
+      "x": 3576.0,
+      "z": 9576.0,
+      "income": 9.474509
+    },
+    {
+      "x": 6840.0,
+      "z": 10552.0,
+      "income": 9.474509
+    },
+    {
+      "x": 6520.0,
+      "z": 14312.0,
+      "income": 9.474509
+    },
+    {
+      "x": 12232.0,
+      "z": 10792.0,
+      "income": 9.461961
+    },
+    {
+      "x": 9032.0,
+      "z": 14552.0,
+      "income": 9.461961
+    },
+    {
+      "x": 11304.0,
+      "z": 8120.0,
+      "income": 8.138039
+    },
+    {
+      "x": 11464.0,
+      "z": 10104.0,
+      "income": 8.138039
+    },
+    {
+      "x": 10664.0,
+      "z": 11464.0,
+      "income": 8.131764
+    },
+    {
+      "x": 8664.0,
+      "z": 5640.0,
+      "income": 8.12549
+    },
+    {
+      "x": 3448.0,
+      "z": 11240.0,
+      "income": 8.12549
+    },
+    {
+      "x": 11880.0,
+      "z": 11880.0,
+      "income": 8.12549
+    },
+    {
+      "x": 4040.0,
+      "z": 2600.0,
+      "income": 8.119216
+    },
+    {
+      "x": 11208.0,
+      "z": 9080.0,
+      "income": 8.119216
+    },
+    {
+      "x": 12984.0,
+      "z": 10904.0,
+      "income": 8.119216
+    },
+    {
+      "x": 3544.0,
+      "z": 12696.0,
+      "income": 8.119216
+    },
+    {
+      "x": 6808.0,
+      "z": 2904.0,
+      "income": 8.106667
+    },
+    {
+      "x": 9928.0,
+      "z": 8184.0,
+      "income": 8.106667
+    },
+    {
+      "x": 5800.0,
+      "z": 1800.0,
+      "income": 8.100392
+    },
+    {
+      "x": 9288.0,
+      "z": 3720.0,
+      "income": 8.100392
+    },
+    {
+      "x": 12120.0,
+      "z": 3784.0,
+      "income": 8.100392
+    },
+    {
+      "x": 5688.0,
+      "z": 5800.0,
+      "income": 8.100392
+    },
+    {
+      "x": 5304.0,
+      "z": 6936.0,
+      "income": 8.100392
+    },
+    {
+      "x": 14328.0,
+      "z": 8280.0,
+      "income": 8.100392
+    },
+    {
+      "x": 8584.0,
+      "z": 11464.0,
+      "income": 8.100392
+    },
+    {
+      "x": 11576.0,
+      "z": 12904.0,
+      "income": 8.100392
+    },
+    {
+      "x": 9368.0,
+      "z": 13320.0,
+      "income": 8.100392
+    },
+    {
+      "x": 2488.0,
+      "z": 5224.0,
+      "income": 8.094117
+    },
+    {
+      "x": 3368.0,
+      "z": 8344.0,
+      "income": 8.094117
+    },
+    {
+      "x": 4344.0,
+      "z": 10136.0,
+      "income": 8.094117
+    },
+    {
+      "x": 2408.0,
+      "z": 10664.0,
+      "income": 8.094117
+    },
+    {
+      "x": 10600.0,
+      "z": 12712.0,
+      "income": 8.094117
+    },
+    {
+      "x": 9736.0,
+      "z": 9640.0,
+      "income": 8.087843
+    },
+    {
+      "x": 11560.0,
+      "z": 2568.0,
+      "income": 8.081569
+    },
+    {
+      "x": 11000.0,
+      "z": 5096.0,
+      "income": 8.081569
+    },
+    {
+      "x": 5432.0,
+      "z": 8536.0,
+      "income": 8.081569
+    },
+    {
+      "x": 9976.0,
+      "z": 2088.0,
+      "income": 8.075294
+    },
+    {
+      "x": 3976.0,
+      "z": 4920.0,
+      "income": 8.075294
+    },
+    {
+      "x": 6424.0,
+      "z": 5208.0,
+      "income": 8.075294
+    },
+    {
+      "x": 13416.0,
+      "z": 7560.0,
+      "income": 8.075294
+    },
+    {
+      "x": 6296.0,
+      "z": 9640.0,
+      "income": 8.075294
+    },
+    {
+      "x": 5000.0,
+      "z": 10888.0,
+      "income": 8.075294
+    },
+    {
+      "x": 2504.0,
+      "z": 6248.0,
+      "income": 8.069019
+    },
+    {
+      "x": 9784.0,
+      "z": 6376.0,
+      "income": 8.069019
+    },
+    {
+      "x": 1544.0,
+      "z": 8856.0,
+      "income": 8.069019
+    },
+    {
+      "x": 3144.0,
+      "z": 13528.0,
+      "income": 8.069019
+    },
+    {
+      "x": 1384.0,
+      "z": 6792.0,
+      "income": 8.062745
+    },
+    {
+      "x": 12968.0,
+      "z": 8728.0,
+      "income": 8.062745
+    },
+    {
+      "x": 2376.0,
+      "z": 11416.0,
+      "income": 8.056471
+    },
+    {
+      "x": 5528.0,
+      "z": 13128.0,
+      "income": 8.056471
+    },
+    {
+      "x": 5096.0,
+      "z": 14376.0,
+      "income": 8.056471
+    },
+    {
+      "x": 7416.0,
+      "z": 1752.0,
+      "income": 8.050196
+    },
+    {
+      "x": 7928.0,
+      "z": 2952.0,
+      "income": 8.050196
+    },
+    {
+      "x": 2008.0,
+      "z": 3992.0,
+      "income": 8.050196
+    },
+    {
+      "x": 10808.0,
+      "z": 3992.0,
+      "income": 8.050196
+    },
+    {
+      "x": 12936.0,
+      "z": 4824.0,
+      "income": 8.050196
+    },
+    {
+      "x": 7496.0,
+      "z": 5144.0,
+      "income": 8.050196
+    },
+    {
+      "x": 2168.0,
+      "z": 7592.0,
+      "income": 8.050196
+    },
+    {
+      "x": 7576.0,
+      "z": 10088.0,
+      "income": 8.043921
+    },
+    {
+      "x": 5592.0,
+      "z": 3592.0,
+      "income": 8.031372
+    },
+    {
+      "x": 13752.0,
+      "z": 6072.0,
+      "income": 8.031372
+    },
+    {
+      "x": 4008.0,
+      "z": 7192.0,
+      "income": 8.031372
+    },
+    {
+      "x": 8792.0,
+      "z": 9992.0,
+      "income": 8.031372
+    },
+    {
+      "x": 7848.0,
+      "z": 12072.0,
+      "income": 8.031372
+    },
+    {
+      "x": 11592.0,
+      "z": 6328.0,
+      "income": 8.018824
+    },
+    {
+      "x": 4712.0,
+      "z": 12792.0,
+      "income": 8.0
+    }
+  ],
+  "metal_coverage": 0.0036697048,
+  "total_metal_income": 1723.8774,
+  "starts": [
+    {
+      "team": 0,
+      "x": 2900.0,
+      "z": 2900.0,
+      "water_fraction": 0.89580995,
+      "mean_slope": 0.0072076437,
+      "nearby_spots": 7,
+      "nearby_income": 63.82431,
+      "ground_reach": 0.0034906685,
+      "land_locked": true,
+      "suggested_role": "SEA"
+    },
+    {
+      "team": 1,
+      "x": 12700.0,
+      "z": 12400.0,
+      "water_fraction": 0.9044653,
+      "mean_slope": 0.008766741,
+      "nearby_spots": 6,
+      "nearby_income": 54.343525,
+      "ground_reach": 0.0038313803,
+      "land_locked": true,
+      "suggested_role": "SEA"
+    },
+    {
+      "team": 2,
+      "x": 2500.0,
+      "z": 12500.0,
+      "water_fraction": 0.92467314,
+      "mean_slope": 0.008661901,
+      "nearby_spots": 7,
+      "nearby_income": 62.35608,
+      "ground_reach": 0.0032280816,
+      "land_locked": true,
+      "suggested_role": "SEA"
+    },
+    {
+      "team": 3,
+      "x": 12800.0,
+      "z": 2800.0,
+      "water_fraction": 0.8947597,
+      "mean_slope": 0.009223921,
+      "nearby_spots": 7,
+      "nearby_income": 63.874508,
+      "ground_reach": 0.0034635416,
+      "land_locked": true,
+      "suggested_role": "SEA"
+    },
+    {
+      "team": 4,
+      "x": 900.0,
+      "z": 8000.0,
+      "water_fraction": 0.89868456,
+      "mean_slope": 0.007241217,
+      "nearby_spots": 6,
+      "nearby_income": 52.831367,
+      "ground_reach": 0.0038172742,
+      "land_locked": true,
+      "suggested_role": "SEA"
+    },
+    {
+      "team": 5,
+      "x": 14500.0,
+      "z": 7000.0,
+      "water_fraction": 0.9356919,
+      "mean_slope": 0.007541861,
+      "nearby_spots": 7,
+      "nearby_income": 62.399998,
+      "ground_reach": 0.0022070312,
+      "land_locked": true,
+      "suggested_role": "SEA"
+    },
+    {
+      "team": 6,
+      "x": 6560.0,
+      "z": 14200.0,
+      "water_fraction": 0.85815823,
+      "mean_slope": 0.007827538,
+      "nearby_spots": 6,
+      "nearby_income": 54.21177,
+      "ground_reach": 0.004690755,
+      "land_locked": true,
+      "suggested_role": "SEA"
+    },
+    {
+      "team": 7,
+      "x": 8700.0,
+      "z": 1100.0,
+      "water_fraction": 0.8808286,
+      "mean_slope": 0.008580662,
+      "nearby_spots": 6,
+      "nearby_income": 55.64863,
+      "ground_reach": 0.0034722222,
+      "land_locked": true,
+      "suggested_role": "SEA"
+    },
+    {
+      "team": 8,
+      "x": 3400.0,
+      "z": 6700.0,
+      "water_fraction": 0.8922971,
+      "mean_slope": 0.011325973,
+      "nearby_spots": 8,
+      "nearby_income": 73.267456,
+      "ground_reach": 0.003235677,
+      "land_locked": true,
+      "suggested_role": "SEA"
+    },
+    {
+      "team": 9,
+      "x": 12288.0,
+      "z": 8464.0,
+      "water_fraction": 0.8866476,
+      "mean_slope": 0.0121751325,
+      "nearby_spots": 10,
+      "nearby_income": 89.64391,
+      "ground_reach": 0.0032302518,
+      "land_locked": true,
+      "suggested_role": "SEA"
+    },
+    {
+      "team": 10,
+      "x": 10160.0,
+      "z": 3200.0,
+      "water_fraction": 0.8480788,
+      "mean_slope": 0.009521308,
+      "nearby_spots": 10,
+      "nearby_income": 91.06196,
+      "ground_reach": 0.0039474824,
+      "land_locked": true,
+      "suggested_role": "SEA"
+    },
+    {
+      "team": 11,
+      "x": 5500.0,
+      "z": 12100.0,
+      "water_fraction": 0.91601783,
+      "mean_slope": 0.009385002,
+      "nearby_spots": 10,
+      "nearby_income": 90.94275,
+      "ground_reach": 0.00257921,
+      "land_locked": true,
+      "suggested_role": "SEA"
+    },
+    {
+      "team": 12,
+      "x": 6500.0,
+      "z": 1000.0,
+      "water_fraction": 0.87363756,
+      "mean_slope": 0.010095204,
+      "nearby_spots": 6,
+      "nearby_income": 54.299606,
+      "ground_reach": 0.0036414932,
+      "land_locked": true,
+      "suggested_role": "SEA"
+    },
+    {
+      "team": 13,
+      "x": 11000.0,
+      "z": 14000.0,
+      "water_fraction": 0.9183267,
+      "mean_slope": 0.007030431,
+      "nearby_spots": 5,
+      "nearby_income": 44.781174,
+      "ground_reach": 0.0032269966,
+      "land_locked": true,
+      "suggested_role": "SEA"
+    },
+    {
+      "team": 14,
+      "x": 14100.0,
+      "z": 9800.0,
+      "water_fraction": 0.89466745,
+      "mean_slope": 0.008476992,
+      "nearby_spots": 4,
+      "nearby_income": 38.18667,
+      "ground_reach": 0.0043706596,
+      "land_locked": true,
+      "suggested_role": "SEA"
+    },
+    {
+      "team": 15,
+      "x": 1300.0,
+      "z": 10700.0,
+      "water_fraction": 0.8969345,
+      "mean_slope": 0.0077070403,
+      "nearby_spots": 6,
+      "nearby_income": 54.243134,
+      "ground_reach": 0.004296875,
+      "land_locked": true,
+      "suggested_role": "SEA"
+    },
+    {
+      "team": 16,
+      "x": 3600.0,
+      "z": 4200.0,
+      "water_fraction": 0.84036505,
+      "mean_slope": 0.030108439,
+      "nearby_spots": 7,
+      "nearby_income": 65.26745,
+      "ground_reach": 0.0032823351,
+      "land_locked": true,
+      "suggested_role": "SEA"
+    },
+    {
+      "team": 17,
+      "x": 12000.0,
+      "z": 10900.0,
+      "water_fraction": 0.8981639,
+      "mean_slope": 0.01986182,
+      "nearby_spots": 9,
+      "nearby_income": 80.01255,
+      "ground_reach": 0.0025401476,
+      "land_locked": true,
+      "suggested_role": "SEA"
+    },
+    {
+      "team": 18,
+      "x": 14100.0,
+      "z": 4700.0,
+      "water_fraction": 0.9127815,
+      "mean_slope": 0.0072237775,
+      "nearby_spots": 6,
+      "nearby_income": 54.243134,
+      "ground_reach": 0.003393012,
+      "land_locked": true,
+      "suggested_role": "SEA"
+    },
+    {
+      "team": 19,
+      "x": 1450.0,
+      "z": 5000.0,
+      "water_fraction": 0.8961393,
+      "mean_slope": 0.008254183,
+      "nearby_spots": 5,
+      "nearby_income": 44.73725,
+      "ground_reach": 0.0046495227,
+      "land_locked": true,
+      "suggested_role": "SEA"
+    },
+    {
+      "team": 20,
+      "x": 10700.0,
+      "z": 1600.0,
+      "water_fraction": 0.8893637,
+      "mean_slope": 0.007702364,
+      "nearby_spots": 6,
+      "nearby_income": 54.199215,
+      "ground_reach": 0.0036990016,
+      "land_locked": true,
+      "suggested_role": "SEA"
+    },
+    {
+      "team": 21,
+      "x": 4100.0,
+      "z": 13900.0,
+      "water_fraction": 0.93742967,
+      "mean_slope": 0.0071250913,
+      "nearby_spots": 7,
+      "nearby_income": 60.75608,
+      "ground_reach": 0.0030371093,
+      "land_locked": true,
+      "suggested_role": "SEA"
+    },
+    {
+      "team": 22,
+      "x": 4650.0,
+      "z": 1360.0,
+      "water_fraction": 0.8961268,
+      "mean_slope": 0.009989714,
+      "nearby_spots": 5,
+      "nearby_income": 44.687057,
+      "ground_reach": 0.003748915,
+      "land_locked": true,
+      "suggested_role": "SEA"
+    },
+    {
+      "team": 23,
+      "x": 8900.0,
+      "z": 14300.0,
+      "water_fraction": 0.9183511,
+      "mean_slope": 0.0065695993,
+      "nearby_spots": 5,
+      "nearby_income": 46.236862,
+      "ground_reach": 0.0030121529,
+      "land_locked": true,
+      "suggested_role": "SEA"
+    },
+    {
+      "team": 24,
+      "x": 3600.0,
+      "z": 9700.0,
+      "water_fraction": 0.8448919,
+      "mean_slope": 0.037610658,
+      "nearby_spots": 7,
+      "nearby_income": 63.84941,
+      "ground_reach": 0.0031174044,
+      "land_locked": true,
+      "suggested_role": "SEA"
+    },
+    {
+      "team": 25,
+      "x": 12150.0,
+      "z": 5500.0,
+      "water_fraction": 0.89682394,
+      "mean_slope": 0.013615332,
+      "nearby_spots": 8,
+      "nearby_income": 71.83686,
+      "ground_reach": 0.0034646268,
+      "land_locked": true,
+      "suggested_role": "SEA"
+    },
+    {
+      "team": 26,
+      "x": 7600.0,
+      "z": 6700.0,
+      "water_fraction": 0.7900264,
+      "mean_slope": 0.052929472,
+      "nearby_spots": 4,
+      "nearby_income": 38.08,
+      "ground_reach": 0.031699218,
+      "land_locked": false,
+      "suggested_role": "SEA"
+    },
+    {
+      "team": 27,
+      "x": 7600.0,
+      "z": 8700.0,
+      "water_fraction": 0.78542715,
+      "mean_slope": 0.053265456,
+      "nearby_spots": 5,
+      "nearby_income": 46.174118,
+      "ground_reach": 0.031699218,
+      "land_locked": false,
+      "suggested_role": "SEA"
+    },
+    {
+      "team": 28,
+      "x": 7600.0,
+      "z": 13000.0,
+      "water_fraction": 0.92738926,
+      "mean_slope": 0.01210333,
+      "nearby_spots": 6,
+      "nearby_income": 55.81804,
+      "ground_reach": 0.00080837676,
+      "land_locked": true,
+      "suggested_role": "SEA"
+    },
+    {
+      "team": 29,
+      "x": 8600.0,
+      "z": 3000.0,
+      "water_fraction": 0.86042804,
+      "mean_slope": 0.031757385,
+      "nearby_spots": 6,
+      "nearby_income": 54.21804,
+      "ground_reach": 0.00088650174,
+      "land_locked": true,
+      "suggested_role": "SEA"
+    },
+    {
+      "team": 30,
+      "x": 4700.0,
+      "z": 8300.0,
+      "water_fraction": 0.82352513,
+      "mean_slope": 0.064125,
+      "nearby_spots": 6,
+      "nearby_income": 51.34431,
+      "ground_reach": 0.0068804254,
+      "land_locked": true,
+      "suggested_role": "SEA"
+    },
+    {
+      "team": 31,
+      "x": 10700.0,
+      "z": 6700.0,
+      "water_fraction": 0.82888496,
+      "mean_slope": 0.06890009,
+      "nearby_spots": 5,
+      "nearby_income": 44.655685,
+      "ground_reach": 0.0059082033,
+      "land_locked": true,
+      "suggested_role": "SEA"
+    },
+    {
+      "team": 32,
+      "x": 8100.0,
+      "z": 10600.0,
+      "water_fraction": 0.81740487,
+      "mean_slope": 0.06651803,
+      "nearby_spots": 7,
+      "nearby_income": 60.81255,
+      "ground_reach": 0.0066395397,
+      "land_locked": true,
+      "suggested_role": "SEA"
+    },
+    {
+      "team": 33,
+      "x": 8400.0,
+      "z": 4500.0,
+      "water_fraction": 0.7906783,
+      "mean_slope": 0.055633496,
+      "nearby_spots": 6,
+      "nearby_income": 52.91294,
+      "ground_reach": 0.0078450525,
+      "land_locked": true,
+      "suggested_role": "SEA"
+    },
+    {
+      "team": 34,
+      "x": 5200.0,
+      "z": 4700.0,
+      "water_fraction": 0.83630896,
+      "mean_slope": 0.06456726,
+      "nearby_spots": 8,
+      "nearby_income": 70.5004,
+      "ground_reach": 0.005281033,
+      "land_locked": true,
+      "suggested_role": "SEA"
+    },
+    {
+      "team": 35,
+      "x": 10500.0,
+      "z": 9600.0,
+      "water_fraction": 0.8521349,
+      "mean_slope": 0.061439548,
+      "nearby_spots": 6,
+      "nearby_income": 53.013336,
+      "ground_reach": 0.004826389,
+      "land_locked": true,
+      "suggested_role": "SEA"
+    },
+    {
+      "team": 36,
+      "x": 9900.0,
+      "z": 12500.0,
+      "water_fraction": 0.9363343,
+      "mean_slope": 0.014949392,
+      "nearby_spots": 8,
+      "nearby_income": 72.18196,
+      "ground_reach": 0.0010069445,
+      "land_locked": true,
+      "suggested_role": "SEA"
+    },
+    {
+      "team": 37,
+      "x": 5500.0,
+      "z": 2700.0,
+      "water_fraction": 0.89414406,
+      "mean_slope": 0.012074438,
+      "nearby_spots": 9,
+      "nearby_income": 80.0,
+      "ground_reach": 0.00071506074,
+      "land_locked": true,
+      "suggested_role": "SEA"
+    },
+    {
+      "team": 38,
+      "x": 11700.0,
+      "z": 3400.0,
+      "water_fraction": 0.8551045,
+      "mean_slope": 0.008856952,
+      "nearby_spots": 10,
+      "nearby_income": 90.97411,
+      "ground_reach": 0.00066840276,
+      "land_locked": true,
+      "suggested_role": "SEA"
+    },
+    {
+      "team": 39,
+      "x": 4200.0,
+      "z": 11900.0,
+      "water_fraction": 0.927679,
+      "mean_slope": 0.01123409,
+      "nearby_spots": 8,
+      "nearby_income": 70.450195,
+      "ground_reach": 0.00068684894,
+      "land_locked": true,
+      "suggested_role": "SEA"
+    }
+  ],
+  "water_damage": 0.0,
+  "tidal_strength": 23.0,
+  "gravity": 80.0,
+  "max_metal": 1.6,
+  "extractor_radius": 120.0,
+  "option_sensitive": true,
+  "notes": [
+    "script echo: Spring.GetMapOptions Selected mapOptions: Dry:\tnil"
+  ]
+}

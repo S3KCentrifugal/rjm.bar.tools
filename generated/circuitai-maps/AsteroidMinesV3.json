@@ -1,0 +1,101 @@
+{
+  "engine_name": "Asteroid_Mines_V3",
+  "match_name": "Asteroid_Mines_V3",
+  "archive": "asteroid_mines_v3",
+  "world_width": 6144.0,
+  "world_height": 6144.0,
+  "min_height": -220.0,
+  "max_height": 780.0,
+  "header_min_height": -50.0,
+  "header_max_height": 100.0,
+  "elevation_min": -219.65582,
+  "elevation_max": 779.9695,
+  "elevation_mean": 88.6072,
+  "land_fraction": 0.4756809,
+  "mean_land_slope": 0.3046984,
+  "mobility": [
+    {
+      "class": "bot",
+      "coverage": 0.2816908,
+      "mean_speed": 1.0
+    },
+    {
+      "class": "vehicle",
+      "coverage": 0.21199544,
+      "mean_speed": 1.0
+    },
+    {
+      "class": "hover",
+      "coverage": 0.21199544,
+      "mean_speed": 1.0
+    },
+    {
+      "class": "ship",
+      "coverage": 0.02452935,
+      "mean_speed": 1.0
+    }
+  ],
+  "largest_ground_component": 0.23879665,
+  "ground_component_count": 914,
+  "metal_distribution": "field",
+  "metal_spots": [],
+  "metal_coverage": 0.291843,
+  "total_metal_income": -0.0,
+  "starts": [
+    {
+      "team": 0,
+      "x": 1600.0,
+      "z": 1600.0,
+      "water_fraction": 0.3973853,
+      "mean_slope": 0.31358692,
+      "nearby_spots": 0,
+      "nearby_income": -0.0,
+      "ground_reach": 0.23879665,
+      "land_locked": false,
+      "suggested_role": "TACTICAL"
+    },
+    {
+      "team": 1,
+      "x": 4500.0,
+      "z": 4500.0,
+      "water_fraction": 0.32524535,
+      "mean_slope": 0.29839233,
+      "nearby_spots": 0,
+      "nearby_income": -0.0,
+      "ground_reach": 0.23879665,
+      "land_locked": false,
+      "suggested_role": "TACTICAL"
+    },
+    {
+      "team": 2,
+      "x": 1600.0,
+      "z": 4500.0,
+      "water_fraction": 0.38188535,
+      "mean_slope": 0.29065377,
+      "nearby_spots": 0,
+      "nearby_income": -0.0,
+      "ground_reach": 0.23879665,
+      "land_locked": false,
+      "suggested_role": "TACTICAL"
+    },
+    {
+      "team": 3,
+      "x": 4500.0,
+      "z": 1600.0,
+      "water_fraction": 0.3280701,
+      "mean_slope": 0.31112513,
+      "nearby_spots": 0,
+      "nearby_income": -0.0,
+      "ground_reach": 0.23879665,
+      "land_locked": false,
+      "suggested_role": "TACTICAL"
+    }
+  ],
+  "water_damage": 2000.0,
+  "tidal_strength": 1.0,
+  "gravity": 100.0,
+  "max_metal": 7.5,
+  "extractor_radius": 24.0,
+  "option_sensitive": false,
+  "notes": []
+}

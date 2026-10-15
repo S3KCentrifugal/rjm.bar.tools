@@ -1,0 +1,283 @@
+{
+  "engine_name": "The Halite Maze v1.4",
+  "match_name": "The Halite Maze v1.4",
+  "archive": "the_halite_maze_v1.4",
+  "world_width": 6144.0,
+  "world_height": 4096.0,
+  "min_height": 200.0,
+  "max_height": 900.0,
+  "header_min_height": -50.0,
+  "header_max_height": 100.0,
+  "elevation_min": 204.7092,
+  "elevation_max": 454.34076,
+  "elevation_mean": 245.97513,
+  "land_fraction": 1.0,
+  "mean_land_slope": 0.06719852,
+  "mobility": [
+    {
+      "class": "bot",
+      "coverage": 0.9484355,
+      "mean_speed": 1.0
+    },
+    {
+      "class": "vehicle",
+      "coverage": 0.8433533,
+      "mean_speed": 1.0
+    },
+    {
+      "class": "hover",
+      "coverage": 0.8433533,
+      "mean_speed": 1.0
+    },
+    {
+      "class": "ship",
+      "coverage": 0.0,
+      "mean_speed": 0.0
+    }
+  ],
+  "largest_ground_component": 0.9217122,
+  "ground_component_count": 47,
+  "metal_distribution": "spots",
+  "metal_spots": [
+    {
+      "x": 3512.0,
+      "z": 1656.0,
+      "income": 6.5975294
+    },
+    {
+      "x": 328.0,
+      "z": 1640.0,
+      "income": 6.593882
+    },
+    {
+      "x": 5800.0,
+      "z": 1640.0,
+      "income": 6.593882
+    },
+    {
+      "x": 2616.0,
+      "z": 2840.0,
+      "income": 6.593882
+    },
+    {
+      "x": 3512.0,
+      "z": 2840.0,
+      "income": 6.593882
+    },
+    {
+      "x": 3624.0,
+      "z": 1048.0,
+      "income": 6.586588
+    },
+    {
+      "x": 680.0,
+      "z": 3176.0,
+      "income": 6.586588
+    },
+    {
+      "x": 5448.0,
+      "z": 3176.0,
+      "income": 6.586588
+    },
+    {
+      "x": 4392.0,
+      "z": 3224.0,
+      "income": 6.586588
+    },
+    {
+      "x": 1624.0,
+      "z": 1400.0,
+      "income": 6.582941
+    },
+    {
+      "x": 4488.0,
+      "z": 1400.0,
+      "income": 6.582941
+    },
+    {
+      "x": 824.0,
+      "z": 3560.0,
+      "income": 6.582941
+    },
+    {
+      "x": 5304.0,
+      "z": 3560.0,
+      "income": 6.582941
+    },
+    {
+      "x": 1800.0,
+      "z": 3128.0,
+      "income": 6.5792937
+    },
+    {
+      "x": 312.0,
+      "z": 2088.0,
+      "income": 6.575647
+    },
+    {
+      "x": 5816.0,
+      "z": 2088.0,
+      "income": 6.575647
+    },
+    {
+      "x": 664.0,
+      "z": 344.0,
+      "income": 6.564706
+    },
+    {
+      "x": 5448.0,
+      "z": 344.0,
+      "income": 6.564706
+    },
+    {
+      "x": 2552.0,
+      "z": 1816.0,
+      "income": 6.564706
+    },
+    {
+      "x": 1800.0,
+      "z": 2280.0,
+      "income": 6.564706
+    },
+    {
+      "x": 1944.0,
+      "z": 200.0,
+      "income": 6.5574117
+    },
+    {
+      "x": 4184.0,
+      "z": 200.0,
+      "income": 6.5574117
+    },
+    {
+      "x": 4312.0,
+      "z": 2120.0,
+      "income": 6.5574117
+    },
+    {
+      "x": 3064.0,
+      "z": 3304.0,
+      "income": 6.5537643
+    },
+    {
+      "x": 392.0,
+      "z": 3416.0,
+      "income": 6.5537643
+    },
+    {
+      "x": 5736.0,
+      "z": 3416.0,
+      "income": 6.5537643
+    },
+    {
+      "x": 232.0,
+      "z": 616.0,
+      "income": 6.5501175
+    },
+    {
+      "x": 5880.0,
+      "z": 616.0,
+      "income": 6.5501175
+    },
+    {
+      "x": 632.0,
+      "z": 712.0,
+      "income": 6.524588
+    },
+    {
+      "x": 5480.0,
+      "z": 712.0,
+      "income": 6.524588
+    },
+    {
+      "x": 2536.0,
+      "z": 856.0,
+      "income": 6.524588
+    }
+  ],
+  "metal_coverage": 0.00592041,
+  "total_metal_income": 203.64809,
+  "starts": [
+    {
+      "team": 0,
+      "x": 5600.0,
+      "z": 600.0,
+      "water_fraction": 0.0,
+      "mean_slope": 0.03367206,
+      "nearby_spots": 6,
+      "nearby_income": 39.373646,
+      "ground_reach": 0.9217122,
+      "land_locked": false,
+      "suggested_role": "FRONT"
+    },
+    {
+      "team": 1,
+      "x": 550.0,
+      "z": 600.0,
+      "water_fraction": 0.0,
+      "mean_slope": 0.026906013,
+      "nearby_spots": 6,
+      "nearby_income": 39.373646,
+      "ground_reach": 0.9217122,
+      "land_locked": false,
+      "suggested_role": "FRONT"
+    },
+    {
+      "team": 2,
+      "x": 5500.0,
+      "z": 3500.0,
+      "water_fraction": 0.0,
+      "mean_slope": 0.0431457,
+      "nearby_spots": 5,
+      "nearby_income": 32.88553,
+      "ground_reach": 0.9217122,
+      "land_locked": false,
+      "suggested_role": "FRONT"
+    },
+    {
+      "team": 3,
+      "x": 600.0,
+      "z": 3500.0,
+      "water_fraction": 0.0,
+      "mean_slope": 0.04435768,
+      "nearby_spots": 5,
+      "nearby_income": 32.878235,
+      "ground_reach": 0.9217122,
+      "land_locked": false,
+      "suggested_role": "FRONT"
+    },
+    {
+      "team": 4,
+      "x": 5800.0,
+      "z": 1900.0,
+      "water_fraction": 0.0,
+      "mean_slope": 0.028459545,
+      "nearby_spots": 6,
+      "nearby_income": 39.413765,
+      "ground_reach": 0.9217122,
+      "land_locked": false,
+      "suggested_role": "FRONT"
+    },
+    {
+      "team": 5,
+      "x": 300.0,
+      "z": 1900.0,
+      "water_fraction": 0.0,
+      "mean_slope": 0.03385682,
+      "nearby_spots": 6,
+      "nearby_income": 39.413765,
+      "ground_reach": 0.9217122,
+      "land_locked": false,
+      "suggested_role": "FRONT"
+    }
+  ],
+  "water_damage": 0.0,
+  "tidal_strength": 23.0,
+  "gravity": 80.0,
+  "max_metal": 0.93,
+  "extractor_radius": 90.0,
+  "option_sensitive": true,
+  "notes": [
+    "script echo: Spring.GetMapOptions Selected mapOptions: Waterdamage:\tnil\tWaterLevel:\tnil\tRoads:\tnil"
+  ]
+}

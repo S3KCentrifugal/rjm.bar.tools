@@ -1,0 +1,149 @@
+{
+  "engine_name": "SpeedMetal BAR V2",
+  "match_name": "SpeedMetal BAR V2",
+  "archive": "speedmetal_bar_v2",
+  "world_width": 13312.0,
+  "world_height": 2048.0,
+  "min_height": -15.0,
+  "max_height": 710.0,
+  "header_min_height": -15.0,
+  "header_max_height": 710.0,
+  "elevation_min": -15.0,
+  "elevation_max": 492.86658,
+  "elevation_mean": 104.983894,
+  "land_fraction": 0.8487361,
+  "mean_land_slope": 0.28875366,
+  "mobility": [
+    {
+      "class": "bot",
+      "coverage": 0.65244704,
+      "mean_speed": 2.0
+    },
+    {
+      "class": "vehicle",
+      "coverage": 0.5899658,
+      "mean_speed": 2.0
+    },
+    {
+      "class": "hover",
+      "coverage": 0.5899658,
+      "mean_speed": 2.0
+    },
+    {
+      "class": "ship",
+      "coverage": 0.13131009,
+      "mean_speed": 2.0
+    }
+  ],
+  "largest_ground_component": 0.47032753,
+  "ground_component_count": 1310,
+  "metal_distribution": "field",
+  "metal_spots": [],
+  "metal_coverage": 0.4776048,
+  "total_metal_income": -0.0,
+  "starts": [
+    {
+      "team": 0,
+      "x": 1000.0,
+      "z": 250.0,
+      "water_fraction": 0.06975795,
+      "mean_slope": 0.020517599,
+      "nearby_spots": 0,
+      "nearby_income": -0.0,
+      "ground_reach": 0.47032753,
+      "land_locked": false,
+      "suggested_role": "FRONT"
+    },
+    {
+      "team": 1,
+      "x": 12300.0,
+      "z": 250.0,
+      "water_fraction": 0.06726154,
+      "mean_slope": 0.025075225,
+      "nearby_spots": 0,
+      "nearby_income": -0.0,
+      "ground_reach": 0.47032753,
+      "land_locked": false,
+      "suggested_role": "FRONT"
+    },
+    {
+      "team": 2,
+      "x": 1000.0,
+      "z": 900.0,
+      "water_fraction": 0.090467386,
+      "mean_slope": 0.014409956,
+      "nearby_spots": 0,
+      "nearby_income": -0.0,
+      "ground_reach": 0.47032753,
+      "land_locked": false,
+      "suggested_role": "FRONT"
+    },
+    {
+      "team": 3,
+      "x": 12300.0,
+      "z": 900.0,
+      "water_fraction": 0.086196944,
+      "mean_slope": 0.019846968,
+      "nearby_spots": 0,
+      "nearby_income": -0.0,
+      "ground_reach": 0.47032753,
+      "land_locked": false,
+      "suggested_role": "FRONT"
+    },
+    {
+      "team": 4,
+      "x": 1000.0,
+      "z": 1250.0,
+      "water_fraction": 0.08355119,
+      "mean_slope": 0.016880736,
+      "nearby_spots": 0,
+      "nearby_income": -0.0,
+      "ground_reach": 0.47032753,
+      "land_locked": false,
+      "suggested_role": "FRONT"
+    },
+    {
+      "team": 5,
+      "x": 12300.0,
+      "z": 1250.0,
+      "water_fraction": 0.07321599,
+      "mean_slope": 0.025955983,
+      "nearby_spots": 0,
+      "nearby_income": -0.0,
+      "ground_reach": 0.47032753,
+      "land_locked": false,
+      "suggested_role": "FRONT"
+    },
+    {
+      "team": 6,
+      "x": 1000.0,
+      "z": 1800.0,
+      "water_fraction": 0.06765026,
+      "mean_slope": 0.022764709,
+      "nearby_spots": 0,
+      "nearby_income": -0.0,
+      "ground_reach": 0.47032753,
+      "land_locked": false,
+      "suggested_role": "FRONT"
+    },
+    {
+      "team": 7,
+      "x": 12300.0,
+      "z": 1800.0,
+      "water_fraction": 0.05759481,
+      "mean_slope": 0.03197663,
+      "nearby_spots": 0,
+      "nearby_income": -0.0,
+      "ground_reach": 0.47032753,
+      "land_locked": false,
+      "suggested_role": "FRONT"
+    }
+  ],
+  "water_damage": 10.0,
+  "tidal_strength": 0.0,
+  "gravity": 50.0,
+  "max_metal": 10.0,
+  "extractor_radius": 30.0,
+  "option_sensitive": false,
+  "notes": []
+}

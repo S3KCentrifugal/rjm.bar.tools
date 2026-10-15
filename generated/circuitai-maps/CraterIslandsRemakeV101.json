@@ -1,0 +1,311 @@
+{
+  "engine_name": "Crater Islands Remake v1.0.1",
+  "match_name": "Crater Islands Remake v1.0.1",
+  "archive": "crater_islands_remake_v1.0.1",
+  "world_width": 6144.0,
+  "world_height": 5120.0,
+  "min_height": -100.0,
+  "max_height": 400.0,
+  "header_min_height": -100.0,
+  "header_max_height": 400.0,
+  "elevation_min": -100.0,
+  "elevation_max": 371.96448,
+  "elevation_mean": 26.613432,
+  "land_fraction": 0.6323324,
+  "mean_land_slope": 0.081683315,
+  "mobility": [
+    {
+      "class": "bot",
+      "coverage": 0.6725179,
+      "mean_speed": 1.0
+    },
+    {
+      "class": "vehicle",
+      "coverage": 0.56338704,
+      "mean_speed": 1.0
+    },
+    {
+      "class": "hover",
+      "coverage": 0.8309896,
+      "mean_speed": 1.0
+    },
+    {
+      "class": "ship",
+      "coverage": 0.33982748,
+      "mean_speed": 1.0
+    }
+  ],
+  "largest_ground_component": 0.19886881,
+  "ground_component_count": 43,
+  "metal_distribution": "spots",
+  "metal_spots": [
+    {
+      "x": 2248.0,
+      "z": 4888.0,
+      "income": 9.89647
+    },
+    {
+      "x": 5896.0,
+      "z": 808.0,
+      "income": 9.53647
+    },
+    {
+      "x": 1288.0,
+      "z": 1048.0,
+      "income": 9.53647
+    },
+    {
+      "x": 360.0,
+      "z": 248.0,
+      "income": 9.529411
+    },
+    {
+      "x": 4232.0,
+      "z": 1624.0,
+      "income": 9.529411
+    },
+    {
+      "x": 136.0,
+      "z": 4056.0,
+      "income": 9.529411
+    },
+    {
+      "x": 1608.0,
+      "z": 4392.0,
+      "income": 9.529411
+    },
+    {
+      "x": 3384.0,
+      "z": 4760.0,
+      "income": 9.529411
+    },
+    {
+      "x": 3944.0,
+      "z": 536.0,
+      "income": 9.522353
+    },
+    {
+      "x": 2328.0,
+      "z": 2728.0,
+      "income": 9.515294
+    },
+    {
+      "x": 3608.0,
+      "z": 3688.0,
+      "income": 9.515294
+    },
+    {
+      "x": 5704.0,
+      "z": 4488.0,
+      "income": 9.515294
+    },
+    {
+      "x": 5944.0,
+      "z": 216.0,
+      "income": 9.508235
+    },
+    {
+      "x": 488.0,
+      "z": 456.0,
+      "income": 9.508235
+    },
+    {
+      "x": 1080.0,
+      "z": 2520.0,
+      "income": 9.508235
+    },
+    {
+      "x": 5992.0,
+      "z": 2808.0,
+      "income": 9.508235
+    },
+    {
+      "x": 4888.0,
+      "z": 3192.0,
+      "income": 9.508235
+    },
+    {
+      "x": 3000.0,
+      "z": 3688.0,
+      "income": 9.508235
+    },
+    {
+      "x": 4200.0,
+      "z": 4264.0,
+      "income": 9.508235
+    },
+    {
+      "x": 200.0,
+      "z": 4600.0,
+      "income": 9.508235
+    },
+    {
+      "x": 2840.0,
+      "z": 1976.0,
+      "income": 9.501177
+    },
+    {
+      "x": 3336.0,
+      "z": 2824.0,
+      "income": 9.501177
+    },
+    {
+      "x": 5912.0,
+      "z": 4680.0,
+      "income": 9.487059
+    },
+    {
+      "x": 1672.0,
+      "z": 3432.0,
+      "income": 5.287059
+    },
+    {
+      "x": 744.0,
+      "z": 4104.0,
+      "income": 5.287059
+    },
+    {
+      "x": 3032.0,
+      "z": 424.0,
+      "income": 5.272941
+    },
+    {
+      "x": 3464.0,
+      "z": 1176.0,
+      "income": 5.272941
+    },
+    {
+      "x": 5384.0,
+      "z": 3864.0,
+      "income": 5.272941
+    },
+    {
+      "x": 1912.0,
+      "z": 616.0,
+      "income": 5.2658825
+    },
+    {
+      "x": 4744.0,
+      "z": 1128.0,
+      "income": 5.2658825
+    },
+    {
+      "x": 2056.0,
+      "z": 1336.0,
+      "income": 5.2658825
+    },
+    {
+      "x": 5944.0,
+      "z": 1928.0,
+      "income": 5.2658825
+    },
+    {
+      "x": 3336.0,
+      "z": 3400.0,
+      "income": 5.2658825
+    },
+    {
+      "x": 1128.0,
+      "z": 3560.0,
+      "income": 5.2658825
+    },
+    {
+      "x": 3544.0,
+      "z": 4680.0,
+      "income": 5.2658825
+    },
+    {
+      "x": 536.0,
+      "z": 1128.0,
+      "income": 5.2588234
+    },
+    {
+      "x": 4152.0,
+      "z": 1928.0,
+      "income": 5.2588234
+    },
+    {
+      "x": 5960.0,
+      "z": 3528.0,
+      "income": 5.2588234
+    },
+    {
+      "x": 1688.0,
+      "z": 4024.0,
+      "income": 5.2588234
+    }
+  ],
+  "metal_coverage": 0.00460612,
+  "total_metal_income": 303.52936,
+  "starts": [
+    {
+      "team": 0,
+      "x": 424.0,
+      "z": 358.0,
+      "water_fraction": 0.07126838,
+      "mean_slope": 0.094497845,
+      "nearby_spots": 4,
+      "nearby_income": 33.83294,
+      "ground_reach": 0.1452474,
+      "land_locked": true,
+      "suggested_role": "TACTICAL"
+    },
+    {
+      "team": 1,
+      "x": 5786.0,
+      "z": 4608.0,
+      "water_fraction": 0.19234738,
+      "mean_slope": 0.100353375,
+      "nearby_spots": 4,
+      "nearby_income": 29.534119,
+      "ground_reach": 0.11989746,
+      "land_locked": true,
+      "suggested_role": "TACTICAL"
+    },
+    {
+      "team": 2,
+      "x": 4103.0,
+      "z": 616.0,
+      "water_fraction": 0.07595119,
+      "mean_slope": 0.07581433,
+      "nearby_spots": 6,
+      "nearby_income": 40.122356,
+      "ground_reach": 0.19886881,
+      "land_locked": true,
+      "suggested_role": "TACTICAL"
+    },
+    {
+      "team": 3,
+      "x": 1628.0,
+      "z": 4224.0,
+      "water_fraction": 0.32299402,
+      "mean_slope": 0.07709586,
+      "nearby_spots": 8,
+      "nearby_income": 59.54118,
+      "ground_reach": 0.12725423,
+      "land_locked": true,
+      "suggested_role": "TACTICAL"
+    },
+    {
+      "team": 5,
+      "x": 3399.0,
+      "z": 3531.0,
+      "water_fraction": 0.6084815,
+      "mean_slope": 0.07252756,
+      "nearby_spots": 8,
+      "nearby_income": 67.60941,
+      "ground_reach": 0.047469076,
+      "land_locked": true,
+      "suggested_role": "SEA"
+    }
+  ],
+  "water_damage": 0.0,
+  "tidal_strength": 17.0,
+  "gravity": 80.0,
+  "max_metal": 1.8,
+  "extractor_radius": 60.0,
+  "option_sensitive": true,
+  "notes": [
+    "script echo: Spring.GetMapOptions Selected mapOptions: Waterdamage:\tnil\tWaterLevel:\tnil\tRoads:\tnil"
+  ]
+}

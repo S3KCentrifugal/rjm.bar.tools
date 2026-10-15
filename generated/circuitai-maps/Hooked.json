@@ -1,0 +1,108 @@
+{
+  "engine_name": "Hooked 1.1.1",
+  "match_name": "Hooked",
+  "archive": "hooked_1.1.1",
+  "world_width": 3072.0,
+  "world_height": 2048.0,
+  "min_height": -60.0,
+  "max_height": 940.0,
+  "header_min_height": -50.0,
+  "header_max_height": 100.0,
+  "elevation_min": -48.42536,
+  "elevation_max": 202.52747,
+  "elevation_mean": 76.847374,
+  "land_fraction": 0.99365234,
+  "mean_land_slope": 0.070893526,
+  "mobility": [
+    {
+      "class": "bot",
+      "coverage": 0.9169922,
+      "mean_speed": 1.0
+    },
+    {
+      "class": "vehicle",
+      "coverage": 0.8481038,
+      "mean_speed": 1.0
+    },
+    {
+      "class": "hover",
+      "coverage": 0.8485921,
+      "mean_speed": 1.0
+    },
+    {
+      "class": "ship",
+      "coverage": 0.004272461,
+      "mean_speed": 1.0
+    }
+  ],
+  "largest_ground_component": 0.9150798,
+  "ground_component_count": 27,
+  "metal_distribution": "spots",
+  "metal_spots": [
+    {
+      "x": 2968.0,
+      "z": 8.0,
+      "income": 20.4
+    },
+    {
+      "x": 40.0,
+      "z": 1928.0,
+      "income": 20.4
+    },
+    {
+      "x": 1080.0,
+      "z": 632.0,
+      "income": 7.9
+    },
+    {
+      "x": 1960.0,
+      "z": 632.0,
+      "income": 7.9
+    },
+    {
+      "x": 1080.0,
+      "z": 1272.0,
+      "income": 7.9
+    },
+    {
+      "x": 1960.0,
+      "z": 1272.0,
+      "income": 7.9
+    }
+  ],
+  "metal_coverage": 0.0017903646,
+  "total_metal_income": 72.4,
+  "starts": [
+    {
+      "team": 0,
+      "x": 10.0,
+      "z": 2038.0,
+      "water_fraction": 0.0,
+      "mean_slope": 0.086051784,
+      "nearby_spots": 2,
+      "nearby_income": 28.3,
+      "ground_reach": 0.9150798,
+      "land_locked": false,
+      "suggested_role": "FRONT"
+    },
+    {
+      "team": 1,
+      "x": 3068.0,
+      "z": 10.0,
+      "water_fraction": 0.0,
+      "mean_slope": 0.089047395,
+      "nearby_spots": 2,
+      "nearby_income": 28.3,
+      "ground_reach": 0.9150798,
+      "land_locked": false,
+      "suggested_role": "FRONT"
+    }
+  ],
+  "water_damage": 0.0,
+  "tidal_strength": 80.0,
+  "gravity": 100.0,
+  "max_metal": 1.7,
+  "extractor_radius": 100.0,
+  "option_sensitive": true,
+  "notes": []
+}

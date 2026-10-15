@@ -1,0 +1,212 @@
+{
+  "engine_name": "Great Divide V1",
+  "match_name": "Great Divide V1",
+  "archive": "great_divide_v1",
+  "world_width": 3072.0,
+  "world_height": 4096.0,
+  "min_height": 243.0,
+  "max_height": 682.0,
+  "header_min_height": -50.0,
+  "header_max_height": 100.0,
+  "elevation_min": 243.15182,
+  "elevation_max": 681.6301,
+  "elevation_mean": 276.3333,
+  "land_fraction": 1.0,
+  "mean_land_slope": 0.054017983,
+  "mobility": [
+    {
+      "class": "bot",
+      "coverage": 0.9392293,
+      "mean_speed": 1.0
+    },
+    {
+      "class": "vehicle",
+      "coverage": 0.874471,
+      "mean_speed": 1.0
+    },
+    {
+      "class": "hover",
+      "coverage": 0.874471,
+      "mean_speed": 1.0
+    },
+    {
+      "class": "ship",
+      "coverage": 0.0,
+      "mean_speed": 0.0
+    }
+  ],
+  "largest_ground_component": 0.8912964,
+  "ground_component_count": 11,
+  "metal_distribution": "spots",
+  "metal_spots": [
+    {
+      "x": 408.0,
+      "z": 360.0,
+      "income": 9.082354
+    },
+    {
+      "x": 824.0,
+      "z": 3048.0,
+      "income": 9.06353
+    },
+    {
+      "x": 2504.0,
+      "z": 424.0,
+      "income": 8.804707
+    },
+    {
+      "x": 1544.0,
+      "z": 1464.0,
+      "income": 8.804707
+    },
+    {
+      "x": 2264.0,
+      "z": 952.0,
+      "income": 8.696471
+    },
+    {
+      "x": 1544.0,
+      "z": 2504.0,
+      "income": 8.677648
+    },
+    {
+      "x": 2408.0,
+      "z": 3848.0,
+      "income": 8.621177
+    },
+    {
+      "x": 2584.0,
+      "z": 3576.0,
+      "income": 8.574119
+    },
+    {
+      "x": 2440.0,
+      "z": 120.0,
+      "income": 8.536471
+    },
+    {
+      "x": 2824.0,
+      "z": 344.0,
+      "income": 8.517648
+    },
+    {
+      "x": 2424.0,
+      "z": 2616.0,
+      "income": 8.508236
+    },
+    {
+      "x": 168.0,
+      "z": 168.0,
+      "income": 8.50353
+    },
+    {
+      "x": 600.0,
+      "z": 88.0,
+      "income": 8.498824
+    },
+    {
+      "x": 296.0,
+      "z": 3672.0,
+      "income": 8.494118
+    },
+    {
+      "x": 664.0,
+      "z": 1320.0,
+      "income": 8.465883
+    },
+    {
+      "x": 2024.0,
+      "z": 3288.0,
+      "income": 8.437648
+    },
+    {
+      "x": 600.0,
+      "z": 3592.0,
+      "income": 8.437648
+    },
+    {
+      "x": 2840.0,
+      "z": 3752.0,
+      "income": 8.42353
+    },
+    {
+      "x": 680.0,
+      "z": 3880.0,
+      "income": 8.42353
+    },
+    {
+      "x": 1096.0,
+      "z": 3368.0,
+      "income": 8.381177
+    },
+    {
+      "x": 1864.0,
+      "z": 616.0,
+      "income": 8.301177
+    },
+    {
+      "x": 1096.0,
+      "z": 648.0,
+      "income": 8.296471
+    }
+  ],
+  "metal_coverage": 0.013285319,
+  "total_metal_income": 188.5506,
+  "starts": [
+    {
+      "team": 0,
+      "x": 361.0,
+      "z": 212.0,
+      "water_fraction": 0.0,
+      "mean_slope": 0.006482543,
+      "nearby_spots": 5,
+      "nearby_income": 42.84706,
+      "ground_reach": 0.8912964,
+      "land_locked": false,
+      "suggested_role": "FRONT"
+    },
+    {
+      "team": 1,
+      "x": 2632.0,
+      "z": 3819.0,
+      "water_fraction": 0.0,
+      "mean_slope": 0.007686372,
+      "nearby_spots": 5,
+      "nearby_income": 42.56471,
+      "ground_reach": 0.8912964,
+      "land_locked": false,
+      "suggested_role": "FRONT"
+    },
+    {
+      "team": 2,
+      "x": 2621.0,
+      "z": 295.0,
+      "water_fraction": 0.0,
+      "mean_slope": 0.054871254,
+      "nearby_spots": 5,
+      "nearby_income": 42.856476,
+      "ground_reach": 0.8912964,
+      "land_locked": false,
+      "suggested_role": "FRONT"
+    },
+    {
+      "team": 3,
+      "x": 493.0,
+      "z": 3790.0,
+      "water_fraction": 0.0,
+      "mean_slope": 0.035867926,
+      "nearby_spots": 5,
+      "nearby_income": 42.800003,
+      "ground_reach": 0.8912964,
+      "land_locked": false,
+      "suggested_role": "FRONT"
+    }
+  ],
+  "water_damage": 0.0,
+  "tidal_strength": 16.0,
+  "gravity": 100.0,
+  "max_metal": 1.2,
+  "extractor_radius": 90.0,
+  "option_sensitive": true,
+  "notes": []
+}

@@ -1,0 +1,209 @@
+{
+  "engine_name": "Geyser Plains BAR v1.2.1",
+  "match_name": "Geyser Plains BAR v1.2.1",
+  "archive": "geyser_plains_bar_v1.2.1",
+  "world_width": 4096.0,
+  "world_height": 4096.0,
+  "min_height": -20.0,
+  "max_height": 180.0,
+  "header_min_height": -50.0,
+  "header_max_height": 100.0,
+  "elevation_min": -19.257406,
+  "elevation_max": 155.50726,
+  "elevation_mean": 52.82521,
+  "land_fraction": 0.9976349,
+  "mean_land_slope": 0.011605599,
+  "mobility": [
+    {
+      "class": "bot",
+      "coverage": 0.9992523,
+      "mean_speed": 1.0
+    },
+    {
+      "class": "vehicle",
+      "coverage": 0.9738922,
+      "mean_speed": 1.0
+    },
+    {
+      "class": "hover",
+      "coverage": 0.9738922,
+      "mean_speed": 1.0
+    },
+    {
+      "class": "ship",
+      "coverage": 0.0018310547,
+      "mean_speed": 1.0
+    }
+  ],
+  "largest_ground_component": 0.9992523,
+  "ground_component_count": 1,
+  "metal_distribution": "spots",
+  "metal_spots": [
+    {
+      "x": 2104.0,
+      "z": 3928.0,
+      "income": 18.382627
+    },
+    {
+      "x": 1736.0,
+      "z": 88.0,
+      "income": 11.728824
+    },
+    {
+      "x": 2904.0,
+      "z": 1080.0,
+      "income": 11.728824
+    },
+    {
+      "x": 1624.0,
+      "z": 1544.0,
+      "income": 11.728824
+    },
+    {
+      "x": 2408.0,
+      "z": 2680.0,
+      "income": 11.728824
+    },
+    {
+      "x": 2936.0,
+      "z": 216.0,
+      "income": 9.821334
+    },
+    {
+      "x": 1560.0,
+      "z": 3848.0,
+      "income": 9.502588
+    },
+    {
+      "x": 248.0,
+      "z": 56.0,
+      "income": 6.6538043
+    },
+    {
+      "x": 1144.0,
+      "z": 136.0,
+      "income": 6.6538043
+    },
+    {
+      "x": 3592.0,
+      "z": 232.0,
+      "income": 6.6538043
+    },
+    {
+      "x": 3736.0,
+      "z": 344.0,
+      "income": 6.6538043
+    },
+    {
+      "x": 3752.0,
+      "z": 1880.0,
+      "income": 6.6538043
+    },
+    {
+      "x": 216.0,
+      "z": 1912.0,
+      "income": 6.6538043
+    },
+    {
+      "x": 440.0,
+      "z": 2056.0,
+      "income": 6.6538043
+    },
+    {
+      "x": 3608.0,
+      "z": 2072.0,
+      "income": 6.6538043
+    },
+    {
+      "x": 3752.0,
+      "z": 2216.0,
+      "income": 6.6538043
+    },
+    {
+      "x": 440.0,
+      "z": 2360.0,
+      "income": 6.6538043
+    },
+    {
+      "x": 472.0,
+      "z": 2936.0,
+      "income": 6.6538043
+    },
+    {
+      "x": 3800.0,
+      "z": 3784.0,
+      "income": 6.6538043
+    },
+    {
+      "x": 2072.0,
+      "z": 2232.0,
+      "income": 5.697569
+    },
+    {
+      "x": 3704.0,
+      "z": 3032.0,
+      "income": 4.751294
+    }
+  ],
+  "metal_coverage": 0.0034942627,
+  "total_metal_income": 174.91637,
+  "starts": [
+    {
+      "team": 0,
+      "x": 3776.0,
+      "z": 2128.0,
+      "water_fraction": 0.008718096,
+      "mean_slope": 0.014293628,
+      "nearby_spots": 6,
+      "nearby_income": 48.170353,
+      "ground_reach": 0.9992523,
+      "land_locked": false,
+      "suggested_role": "FRONT"
+    },
+    {
+      "team": 1,
+      "x": 312.0,
+      "z": 2052.0,
+      "water_fraction": 0.0,
+      "mean_slope": 0.013128193,
+      "nearby_spots": 5,
+      "nearby_income": 38.34404,
+      "ground_reach": 0.9992523,
+      "land_locked": false,
+      "suggested_role": "FRONT"
+    },
+    {
+      "team": 2,
+      "x": 3836.0,
+      "z": 3792.0,
+      "water_fraction": 0.014805617,
+      "mean_slope": 0.02016286,
+      "nearby_spots": 2,
+      "nearby_income": 11.405098,
+      "ground_reach": 0.9992523,
+      "land_locked": false,
+      "suggested_role": "FRONT"
+    },
+    {
+      "team": 3,
+      "x": 268.0,
+      "z": 192.0,
+      "water_fraction": 0.0,
+      "mean_slope": 0.009538501,
+      "nearby_spots": 3,
+      "nearby_income": 25.036432,
+      "ground_reach": 0.9992523,
+      "land_locked": false,
+      "suggested_role": "FRONT"
+    }
+  ],
+  "water_damage": 0.0,
+  "tidal_strength": 20.0,
+  "gravity": 100.0,
+  "max_metal": 1.27,
+  "extractor_radius": 90.0,
+  "option_sensitive": true,
+  "notes": [
+    "script echo: Spring.GetMapOptions Selected mapOptions: Waterdamage:\tnil\tDry:\tnil\tRoads:\tnil"
+  ]
+}

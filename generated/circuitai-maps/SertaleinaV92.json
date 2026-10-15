@@ -1,0 +1,264 @@
+{
+  "engine_name": "Sertaleina_v9.2",
+  "match_name": "Sertaleina_v9.2",
+  "archive": "sertaleina_v9.2",
+  "world_width": 6144.0,
+  "world_height": 4096.0,
+  "min_height": 200.0,
+  "max_height": 800.0,
+  "header_min_height": -50.0,
+  "header_max_height": 100.0,
+  "elevation_min": 307.81757,
+  "elevation_max": 485.69135,
+  "elevation_mean": 315.80502,
+  "land_fraction": 1.0,
+  "mean_land_slope": 0.017154688,
+  "mobility": [
+    {
+      "class": "bot",
+      "coverage": 0.98884076,
+      "mean_speed": 1.0
+    },
+    {
+      "class": "vehicle",
+      "coverage": 0.9495341,
+      "mean_speed": 1.0
+    },
+    {
+      "class": "hover",
+      "coverage": 0.9495341,
+      "mean_speed": 1.0
+    },
+    {
+      "class": "ship",
+      "coverage": 0.0,
+      "mean_speed": 0.0
+    }
+  ],
+  "largest_ground_component": 0.98743695,
+  "ground_component_count": 24,
+  "metal_distribution": "spots",
+  "metal_spots": [
+    {
+      "x": 2520.0,
+      "z": 152.0,
+      "income": 8.311765
+    },
+    {
+      "x": 5272.0,
+      "z": 248.0,
+      "income": 8.311765
+    },
+    {
+      "x": 2136.0,
+      "z": 360.0,
+      "income": 8.311765
+    },
+    {
+      "x": 5128.0,
+      "z": 520.0,
+      "income": 8.311765
+    },
+    {
+      "x": 424.0,
+      "z": 680.0,
+      "income": 8.311765
+    },
+    {
+      "x": 56.0,
+      "z": 872.0,
+      "income": 8.311765
+    },
+    {
+      "x": 1544.0,
+      "z": 872.0,
+      "income": 8.311765
+    },
+    {
+      "x": 5880.0,
+      "z": 936.0,
+      "income": 8.311765
+    },
+    {
+      "x": 3288.0,
+      "z": 1032.0,
+      "income": 8.311765
+    },
+    {
+      "x": 6040.0,
+      "z": 1256.0,
+      "income": 8.311765
+    },
+    {
+      "x": 2248.0,
+      "z": 1320.0,
+      "income": 8.311765
+    },
+    {
+      "x": 3816.0,
+      "z": 1336.0,
+      "income": 8.311765
+    },
+    {
+      "x": 1096.0,
+      "z": 1528.0,
+      "income": 8.311765
+    },
+    {
+      "x": 2808.0,
+      "z": 1608.0,
+      "income": 8.311765
+    },
+    {
+      "x": 56.0,
+      "z": 1848.0,
+      "income": 8.311765
+    },
+    {
+      "x": 3864.0,
+      "z": 1992.0,
+      "income": 8.311765
+    },
+    {
+      "x": 2248.0,
+      "z": 2008.0,
+      "income": 8.311765
+    },
+    {
+      "x": 6072.0,
+      "z": 2136.0,
+      "income": 8.311765
+    },
+    {
+      "x": 3320.0,
+      "z": 2392.0,
+      "income": 8.311765
+    },
+    {
+      "x": 5048.0,
+      "z": 2504.0,
+      "income": 8.311765
+    },
+    {
+      "x": 2296.0,
+      "z": 2664.0,
+      "income": 8.311765
+    },
+    {
+      "x": 3896.0,
+      "z": 2664.0,
+      "income": 8.311765
+    },
+    {
+      "x": 120.0,
+      "z": 2680.0,
+      "income": 8.311765
+    },
+    {
+      "x": 2856.0,
+      "z": 2952.0,
+      "income": 8.311765
+    },
+    {
+      "x": 232.0,
+      "z": 3064.0,
+      "income": 8.311765
+    },
+    {
+      "x": 4584.0,
+      "z": 3128.0,
+      "income": 8.311765
+    },
+    {
+      "x": 6072.0,
+      "z": 3192.0,
+      "income": 8.311765
+    },
+    {
+      "x": 5768.0,
+      "z": 3384.0,
+      "income": 8.311765
+    },
+    {
+      "x": 1016.0,
+      "z": 3464.0,
+      "income": 8.311765
+    },
+    {
+      "x": 3976.0,
+      "z": 3640.0,
+      "income": 8.311765
+    },
+    {
+      "x": 856.0,
+      "z": 3752.0,
+      "income": 8.311765
+    },
+    {
+      "x": 3608.0,
+      "z": 3848.0,
+      "income": 8.311765
+    }
+  ],
+  "metal_coverage": 0.004231771,
+  "total_metal_income": 265.97653,
+  "starts": [
+    {
+      "team": 0,
+      "x": 165.0,
+      "z": 3036.0,
+      "water_fraction": 0.0,
+      "mean_slope": 0.01901022,
+      "nearby_spots": 5,
+      "nearby_income": 41.558823,
+      "ground_reach": 0.98743695,
+      "land_locked": false,
+      "suggested_role": "FRONT"
+    },
+    {
+      "team": 1,
+      "x": 5951.0,
+      "z": 1078.0,
+      "water_fraction": 0.0,
+      "mean_slope": 0.018772153,
+      "nearby_spots": 5,
+      "nearby_income": 41.558823,
+      "ground_reach": 0.98743695,
+      "land_locked": false,
+      "suggested_role": "FRONT"
+    },
+    {
+      "team": 2,
+      "x": 160.0,
+      "z": 860.0,
+      "water_fraction": 0.0,
+      "mean_slope": 0.013185096,
+      "nearby_spots": 5,
+      "nearby_income": 41.558823,
+      "ground_reach": 0.98743695,
+      "land_locked": false,
+      "suggested_role": "FRONT"
+    },
+    {
+      "team": 3,
+      "x": 6010.0,
+      "z": 3265.0,
+      "water_fraction": 0.0,
+      "mean_slope": 0.013816367,
+      "nearby_spots": 5,
+      "nearby_income": 41.558823,
+      "ground_reach": 0.98743695,
+      "land_locked": false,
+      "suggested_role": "FRONT"
+    }
+  ],
+  "water_damage": 0.0,
+  "tidal_strength": 0.0,
+  "gravity": 120.0,
+  "max_metal": 0.9,
+  "extractor_radius": 100.0,
+  "option_sensitive": true,
+  "notes": [
+    "script echo: Spring.GetMapOptions Selected mapOptions: Waterdamage:\tnil\tWaterLevel:\tnil\tRoads:\tnil"
+  ]
+}

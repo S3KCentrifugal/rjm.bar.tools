@@ -1,0 +1,224 @@
+{
+  "engine_name": "Coast To Coast BAR v1.0",
+  "match_name": "Coast To Coast BAR v1.0",
+  "archive": "coast_to_coast_bar_v1.0",
+  "world_width": 6144.0,
+  "world_height": 4096.0,
+  "min_height": -180.0,
+  "max_height": 520.0,
+  "header_min_height": -50.0,
+  "header_max_height": 100.0,
+  "elevation_min": -86.19812,
+  "elevation_max": 115.9949,
+  "elevation_mean": -35.80299,
+  "land_fraction": 0.39941406,
+  "mean_land_slope": 0.015702762,
+  "mobility": [
+    {
+      "class": "bot",
+      "coverage": 0.43747965,
+      "mean_speed": 1.0
+    },
+    {
+      "class": "vehicle",
+      "coverage": 0.42244467,
+      "mean_speed": 1.0
+    },
+    {
+      "class": "hover",
+      "coverage": 0.98480225,
+      "mean_speed": 1.0
+    },
+    {
+      "class": "ship",
+      "coverage": 0.58376056,
+      "mean_speed": 1.0
+    }
+  ],
+  "largest_ground_component": 0.22089641,
+  "ground_component_count": 2,
+  "metal_distribution": "spots",
+  "metal_spots": [
+    {
+      "x": 4664.0,
+      "z": 568.0,
+      "income": 8.498824
+    },
+    {
+      "x": 1320.0,
+      "z": 1352.0,
+      "income": 8.498824
+    },
+    {
+      "x": 1224.0,
+      "z": 1592.0,
+      "income": 8.498824
+    },
+    {
+      "x": 4888.0,
+      "z": 2728.0,
+      "income": 8.498824
+    },
+    {
+      "x": 168.0,
+      "z": 1672.0,
+      "income": 8.4800005
+    },
+    {
+      "x": 5976.0,
+      "z": 2408.0,
+      "income": 8.4800005
+    },
+    {
+      "x": 4968.0,
+      "z": 2504.0,
+      "income": 8.470589
+    },
+    {
+      "x": 1544.0,
+      "z": 3752.0,
+      "income": 8.465883
+    },
+    {
+      "x": 5896.0,
+      "z": 728.0,
+      "income": 8.451765
+    },
+    {
+      "x": 5000.0,
+      "z": 1560.0,
+      "income": 8.451765
+    },
+    {
+      "x": 1144.0,
+      "z": 2520.0,
+      "income": 8.451765
+    },
+    {
+      "x": 1304.0,
+      "z": 2680.0,
+      "income": 8.451765
+    },
+    {
+      "x": 248.0,
+      "z": 3368.0,
+      "income": 8.451765
+    },
+    {
+      "x": 4856.0,
+      "z": 1384.0,
+      "income": 8.44706
+    },
+    {
+      "x": 760.0,
+      "z": 264.0,
+      "income": 8.432941
+    },
+    {
+      "x": 5368.0,
+      "z": 3816.0,
+      "income": 8.432941
+    },
+    {
+      "x": 3736.0,
+      "z": 1592.0,
+      "income": 5.5529413
+    },
+    {
+      "x": 2392.0,
+      "z": 2488.0,
+      "income": 5.5529413
+    },
+    {
+      "x": 3336.0,
+      "z": 440.0,
+      "income": 5.538824
+    },
+    {
+      "x": 2792.0,
+      "z": 3640.0,
+      "income": 5.538824
+    },
+    {
+      "x": 2152.0,
+      "z": 712.0,
+      "income": 5.5247064
+    },
+    {
+      "x": 2568.0,
+      "z": 1512.0,
+      "income": 5.5247064
+    },
+    {
+      "x": 3560.0,
+      "z": 2568.0,
+      "income": 5.5247064
+    },
+    {
+      "x": 3960.0,
+      "z": 3368.0,
+      "income": 5.5247064
+    }
+  ],
+  "metal_coverage": 0.0042012534,
+  "total_metal_income": 179.7459,
+  "starts": [
+    {
+      "team": 0,
+      "x": 4906.0,
+      "z": 2585.0,
+      "water_fraction": 0.62429583,
+      "mean_slope": 0.011352966,
+      "nearby_spots": 8,
+      "nearby_income": 61.830593,
+      "ground_reach": 0.0,
+      "land_locked": true,
+      "suggested_role": "SEA"
+    },
+    {
+      "team": 1,
+      "x": 1238.0,
+      "z": 1496.0,
+      "water_fraction": 0.63208437,
+      "mean_slope": 0.009108991,
+      "nearby_spots": 8,
+      "nearby_income": 61.863537,
+      "ground_reach": 0.0,
+      "land_locked": true,
+      "suggested_role": "SEA"
+    },
+    {
+      "team": 2,
+      "x": 4615.0,
+      "z": 451.0,
+      "water_fraction": 0.43952584,
+      "mean_slope": 0.025100622,
+      "nearby_spots": 6,
+      "nearby_income": 44.941177,
+      "ground_reach": 0.22089641,
+      "land_locked": true,
+      "suggested_role": "TACTICAL"
+    },
+    {
+      "team": 3,
+      "x": 1496.0,
+      "z": 3636.0,
+      "water_fraction": 0.42557433,
+      "mean_slope": 0.018845411,
+      "nearby_spots": 6,
+      "nearby_income": 44.91294,
+      "ground_reach": 0.21658325,
+      "land_locked": true,
+      "suggested_role": "TACTICAL"
+    }
+  ],
+  "water_damage": 0.0,
+  "tidal_strength": 16.0,
+  "gravity": 120.0,
+  "max_metal": 1.2,
+  "extractor_radius": 50.0,
+  "option_sensitive": true,
+  "notes": [
+    "script echo: Spring.GetMapOptions Selected mapOptions: Waterdamage:\tnil\tWaterLevel:\tnil\tRoads:\tnil"
+  ]
+}

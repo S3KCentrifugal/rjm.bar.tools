@@ -1,0 +1,5 @@
+/target
+
+# Ad-hoc generation runs, at any depth. The tracked, reviewable output set
+# lives in generated/ — see README.
+out/
